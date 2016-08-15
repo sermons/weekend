@@ -5,4 +5,4 @@
 [![Node dev status](https://david-dm.org/sermons/redeeming-weekends/dev-status.svg)](https://david-dm.org/sermons/redeeming-weekends#info=devDependencies)
 
 Forked from template
-[redeeming-weekends](https://github.com/sermons/redeeming-weekends)
+[reveal-skel](https://github.com/sermons/reveal-skel)
