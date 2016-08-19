@@ -173,18 +173,15 @@ and to the descendants of Jacob their **sins**.
 2. <span class="hl2">Do:</span>
   **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-3. <span class="hl2">Then God Will:</span>
+3. <span class="hl2">Then God Will:</span> <br/>
   **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
 ---
 
 ## Isaiah 58:2-3 (NIV)
-For day after day they **seek me out**; <br/>
-they **seem eager** to know my ways,
-
-as if they were a nation that **does what is right** <br/>
-and has not **forsaken the commands** of its God.
+[...] day after day they **seek me out**; <br/>
+they **seem eager** to know my ways, [...]
 
 They ask me for **just decisions** <br/>
 and seem eager for God to **come near** them.
@@ -211,9 +208,8 @@ and for lying in **sackcloth and ashes**?
 
 ---
 
-## Isaiah 58:3-4 (NIV) (p.3/10)
-Yet on the day of your fasting, <br/>
-you do **as you please** <br/>
+## Isaiah 58:3-4 (NIV)
+You do **as you please** <br/>
 and **exploit** all your workers.
 
 Your fasting ends in **quarreling and strife**, <br/>
@@ -223,6 +219,46 @@ and in **striking each other** with wicked fists.
 + family argue **more** on wknd?
 
 ---
+
+## Isaiah 58:6 (NIV)
+To loose the **chains of injustice** <br/>
+and untie the **cords of the yoke**, <br/>
+to set the **oppressed** free <br/>
+and **break every yoke**?
+
+>>>
++ Justice **defined** by God
+  + e.g., **internet** a basic human right?
+  + e.g., mom takes away **phone**
++ Human **trafficking**
++ **Addictions**
+
+---
+
+## Isaiah 58:7 (NIV)
+To **share your food** with the hungry <br/>
+and to provide the poor wanderer with **shelter** — <br/>
+when you see the naked, to **clothe them**, <br/>
+and not to turn away from your own **flesh and blood**?
+
+>>>
++ Not that we can **solve** poverty
++ Selfishness affects our **heart**
+  + **Sharing** God's grace
++ **ἁπλότης**: simplicity + generosity
+  + more **blessed** &Rarr; more to **give**
+
+---
+
+## Isaiah 58:8-9 (NIV) (p.6/10)
+Then your **light** will break forth like the dawn, <br/>
+and your **healing** will quickly appear;
+
+then your righteousness will **go before** you, <br/>
+and the glory of the Lord will be your **rear guard**.
+
+Then you will **call**, and the Lord will **answer**; <br/>
+you will **cry for help**, and he will say: **Here am I**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -234,6 +270,34 @@ and in **striking each other** with wicked fists.
 + Trust in God's protection
 
 ---
+
+## Isaiah 58:9-10 (NIV) (p.7/10)
+“If you do away with the **yoke of oppression**, <br/>
+with the **pointing finger** and **malicious talk**,
+
+and if you **spend yourselves** in behalf of the hungry <br/>
+and **satisfy the needs** of the oppressed,
+
+then your light will rise in the **darkness**, <br/>
+and your **night** will become like the noonday.
+
+---
+
+## Isaiah 58:11-12 (NIV) (p.8/10)
+The Lord will **guide** you always; <br/>
+he will **satisfy your needs** in a sun-scorched land <br/>
+and will **strengthen** your frame.
+
+You will be like a **well-watered garden**, <br/>
+like a **spring** whose waters never fail.
+
+Your people will **rebuild** the ancient ruins <br/>
+and will **raise up** the age-old foundations;
+
+you will be called **Repairer** of Broken Walls, <br/>
+**Restorer** of Streets with Dwellings.
+
+---
 <!-- .slide: class="Q" data-background="white" -->
 
 ## Am I more interested in **justifying** myself
@@ -241,6 +305,31 @@ and in **striking each other** with wicked fists.
 
 >>>
 + Trust in God's providence
+
+---
+
+## Isaiah 58:12-13 (NIV) (p.9/10)
+“If you keep your feet from breaking the **Sabbath** <br/>
+and from doing **as you please** on my holy day,
+
+if you call the Sabbath a **delight** <br/>
+and the Lord’s holy day **honorable**,
+
+and if you honor it by not going your **own way** <br/>
+and not doing **as you please** or speaking **idle** words,
+
+---
+
+## Isaiah 58:14 (NIV) (p.10/10)
+Then you will **find your joy** in the Lord,
+
+and I will cause you to **ride in triumph** <br/>
+on the heights of the land
+
+and to **feast on the inheritance** <br/>
+of your father Jacob.
+
+The mouth of the Lord has spoken.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
