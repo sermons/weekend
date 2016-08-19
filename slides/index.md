@@ -155,15 +155,27 @@ The mouth of the Lord has spoken.
 
 ---
 
-## Isaiah 58:1-2 (NIV)
-**Shout** it aloud, do not hold back. <br/>
-Raise your **voice** like a trumpet.
-
+## Isaiah 58:2 (NIV)
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
 
 >>>
 + not beyond **hope**
++ 57:15 **contrite**
+  + vs 57:18-21 restless **wicked**
+
+---
+
+## Pretending &rarr; Protecting
+1. <span class="hl2">Don't:</span>
+  Pursue **Appearance** of Humility
+  <span class="hl1">(v2-5)</span>
+2. <span class="hl2">Do:</span>
+  **Protect** the Oppressed
+  <span class="hl1">(v6-7)</span>
+3. <span class="hl2">Then God Will:</span>
+  **Answer** Your Cry and **Protect** You
+  <span class="hl1">(v8-9)</span>
 
 ---
 
@@ -176,6 +188,41 @@ and has not **forsaken the commands** of its God.
 
 They ask me for **just decisions** <br/>
 and seem eager for God to **come near** them.
+
+>>>
++ good guys!
++ churchgoers, believe selves good Christians
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+
+## Isaiah 58:5 (NIV)
+[...] only a day for people to **humble themselves**?
+
+Is it only for **bowing one’s head** like a reed <br/>
+and for lying in **sackcloth and ashes**?
+
+>>>
++ **appearance** of humility
++ self-abasement
+  + focus: **own** sacrifice+suffering
+  + &Rarr; **penance** for sins
++ e.g., devos at **camp**
+
+---
+
+## Isaiah 58:3-4 (NIV) (p.3/10)
+Yet on the day of your fasting, <br/>
+you do **as you please** <br/>
+and **exploit** all your workers.
+
+Your fasting ends in **quarreling and strife**, <br/>
+and in **striking each other** with wicked fists.
+
+>>>
++ family argue **more** on wknd?
+
+---
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
