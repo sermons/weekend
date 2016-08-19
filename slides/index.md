@@ -7,7 +7,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What are your **weekends** for?
+# What are my **weekends** for?
 
 >>>
 + demands of **family**
@@ -180,15 +180,24 @@ and seem eager for God to **come near** them.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q1
+## Am I more interested in **appearing** humble
+## than in **protecting** the oppressed?
+
+>>>
++ Trust in God's protection
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q2
+## Am I more interested in **justifying** myself
+## than in **providing** for the needy?
+
+>>>
++ Trust in God's providence
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-# Q3
+# Am I more interested in my own **plans**
+## than in declaring God's **glory**?
 
