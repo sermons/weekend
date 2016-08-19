@@ -270,8 +270,8 @@ you will **cry for help**, and he will say: **Here am I**.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-## Am I more interested in **appearing** humble
-## than in **protecting** the oppressed?
+# Do I care more about **appearing** humble
+# than **protecting** the oppressed?
 
 >>>
 + Trust in God's protection
@@ -307,8 +307,8 @@ you will be called **Repairer** of Broken Walls, <br/>
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-## Am I more interested in **justifying** myself
-## than in **providing** for the needy?
+# Do I care more about **justifying** myself
+# than **providing** for the needy?
 
 >>>
 + Trust in God's providence
@@ -341,6 +341,6 @@ The mouth of the Lord has spoken.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-# Am I more interested in my own **plans**
-## than in declaring God's **glory**?
+# Do I care more about my own **plans**
+# than declaring God's **glory**?
 
