@@ -169,7 +169,7 @@ and to the descendants of Jacob their **sins**.
   <span class="hl1">(v2-5)</span>
 + <span class="hl2">Do:</span> **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-+ <span class="hl2">Then God Will:</span>
++ <span class="hl2">God Promises To:</span>
   **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
@@ -218,9 +218,9 @@ and in **striking each other** with wicked fists.
 
 ## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
-+ <span class="hl2">Do:</span> **Protect** the Oppressed
++ Do: **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-+ <span class="hl2">Then God Will: Answer Your Cry and Protect You (v8-9)</span>
++ <span class="hl2">God Promises To: Answer Your Cry and Protect You (v8-9)</span>
 
 >>>
 + OK so the **facade** of humility
@@ -263,8 +263,7 @@ and not to turn away from your own **flesh and blood**?
 ## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
 + <span class="hl2">Do: Protect the Oppressed (v6-7)</span>
-+ <span class="hl2">Then God Will:</span>
-  **Answer** Your Cry and **Protect** You
++ God Promises To: **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
 >>>
@@ -311,8 +310,8 @@ you will **cry for help**, and he will say: **Here am I**.
   <span class="hl1">(v9b)</span>
 + <span class="hl2">Do:</span> **Provide** for the Needy
   <span class="hl1">(v10a)</span>
-+ <span class="hl2">Then God Will:</span>
-  **Satisfy** Your Needs and **Restore** You
++ <span class="hl2">God Promises To:</span>
+  **Satisfy** Your Needs and **Restore**
   <span class="hl1">(v10b-12)</span>
 
 ---
@@ -338,7 +337,7 @@ and **satisfy the needs** of the oppressed,
 ---
 
 <span class="hl1">(11)</span>
-The Lord will [...]
+[...]
 **satisfy your needs** in a sun-scorched land <br/>
 and will **strengthen** your frame.
 
@@ -385,7 +384,7 @@ you will be called **Repairer** of Broken Walls, <br/>
   <span class="hl1">(v13a,c)</span>
 + <span class="hl2">Do:</span> Consider Its **Joy** and **Gravity**
   <span class="hl1">(v13b)</span>
-+ <span class="hl2">Then God Will:</span>
++ <span class="hl2">God Promises To:</span>
   Be Your **Joy** and **Triumph**
   <span class="hl1">(v14)</span>
 
