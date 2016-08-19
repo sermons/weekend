@@ -94,7 +94,7 @@ you will **cry for help**, and he will say: **Here am I**.
 ---
 
 ## Isaiah 58:9-10 (NIV) (p.7/10)
-“If you do away with the **yoke of oppression**, <br/>
+If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
 
 and if you **spend yourselves** in behalf of the hungry <br/>
@@ -122,7 +122,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 ---
 
 ## Isaiah 58:12-13 (NIV) (p.9/10)
-“If you keep your feet from breaking the **Sabbath** <br/>
+If you keep your feet from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
 if you call the Sabbath a **delight** <br/>
@@ -217,13 +217,10 @@ and in **striking each other** with wicked fists.
 ---
 
 ## 1. Pretending &rarr; Protecting
-+ <span class="hl2">Don't:</span> Pursue **Appearance** of Humility
-  <span class="hl1">(v2-5)</span>
++ <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
 + <span class="hl2">Do:</span> **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-+ <span class="hl2">Then God Will:</span>
-  **Answer** Your Cry and **Protect** You
-  <span class="hl1">(v8-9)</span>
++ <span class="hl2">Then God Will: Answer Your Cry and Protect You (v8-9)</span>
 
 >>>
 + OK so the **facade** of humility
@@ -242,6 +239,7 @@ and **break every yoke**?
 + Justice **defined** by God
   + e.g., **internet** a basic human right?
   + e.g., mom takes away **phone**
+  + right to choose **sexual identity**?
 + Human **trafficking**
 + **Addictions**
 
@@ -263,10 +261,8 @@ and not to turn away from your own **flesh and blood**?
 ---
 
 ## 1. Pretending &rarr; Protecting
-+ <span class="hl2">Don't:</span> Pursue **Appearance** of Humility
-  <span class="hl1">(v2-5)</span>
-+ <span class="hl2">Do:</span> **Protect** the Oppressed
-  <span class="hl1">(v6-7)</span>
++ <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
++ <span class="hl2">Do: Protect the Oppressed (v6-7)</span>
 + <span class="hl2">Then God Will:</span>
   **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
@@ -279,9 +275,6 @@ and not to turn away from your own **flesh and blood**?
 ---
 
 <span class="hl1">(8)</span>
-Then your **light** will break forth like the dawn, <br/>
-and your **healing** will quickly appear;
-
 then your righteousness will **go before** you, <br/>
 and the glory of the Lord will be your **rear guard**.
 
@@ -301,42 +294,73 @@ you will **cry for help**, and he will say: **Here am I**.
 # than **protecting** the oppressed?
 
 >>>
-+ Trust in God's protection
++ Pretending &rarr; Protecting
++ Act of **faith** in God's protection
 
 ---
 
 ## Is58: Redeeming the Weekends
-1. <span class="hl2">Pretending &rarr; *Protecting* (v3-9a)</span>
+1. <span class="hl2">Pretending &rarr; Protecting (v3-9a)</span>
 2. **Pride &rarr; Providence** <span class="hl1">(v9b-12)</span>
-3. <span class="hl2">Pleasure &rarr; *Praise* (v13-14)</span>
+3. <span class="hl2">Pleasure &rarr; Praise (v13-14)</span>
+
+---
+
+## 2. Pride &rarr; Providence
++ <span class="hl2">Don't:</span> Presume **Superiority**
+  <span class="hl1">(v9b)</span>
++ <span class="hl2">Do:</span> **Provide** for the Needy
+  <span class="hl1">(v10a)</span>
++ <span class="hl2">Then God Will:</span>
+  **Satisfy** Your Needs and **Restore** You
+  <span class="hl1">(v10b-12)</span>
 
 ---
 
 <span class="hl1">(9)</span>
-“If you do away with the **yoke of oppression**, <br/>
+If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
 
-and if you **spend yourselves** in behalf of the hungry <br/>
+>>>
++ Oppression: master / slave
++ Pointing: superiority (not blame)
++ Talk: with intent to harm, slander
+
+---
+
+<span class="hl1">(10)</span>
+if you **spend yourselves** in behalf of the hungry <br/>
 and **satisfy the needs** of the oppressed,
 
-then your light will rise in the **darkness**, <br/>
-and your **night** will become like the noonday.
+>>>
++ KJV: draw out your soul
 
 ---
 
 <span class="hl1">(11)</span>
-The Lord will **guide** you always; <br/>
-he will **satisfy your needs** in a sun-scorched land <br/>
+The Lord will [...]
+**satisfy your needs** in a sun-scorched land <br/>
 and will **strengthen** your frame.
 
 You will be like a **well-watered garden**, <br/>
 like a **spring** whose waters never fail.
 
+>>>
++ As we provide for others
+  + God provides for us
++ Even more, God gives us a **title**:
+
+---
+
+<span class="hl1">(12)</span>
 Your people will **rebuild** the ancient ruins <br/>
 and will **raise up** the age-old foundations;
 
 you will be called **Repairer** of Broken Walls, <br/>
 **Restorer** of Streets with Dwellings.
+
+>>>
++ **We** are the repairers / restorers!
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -350,21 +374,35 @@ you will be called **Repairer** of Broken Walls, <br/>
 ---
 
 ## Is58: Redeeming the Weekends
-1. <span class="hl2">Pretending &rarr; *Protecting* (v3-9a)</span>
-2. <span class="hl2">Pride &rarr; *Providence* (v9b-12)</span>
+1. <span class="hl2">Pretending &rarr; Protecting (v3-9a)</span>
+2. <span class="hl2">Pride &rarr; Providence (v9b-12)</span>
 3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
 
 ---
 
-<span class="hl1">(12)</span>
-“If you keep your feet from breaking the **Sabbath** <br/>
-and from doing **as you please** on my holy day,
+## 3. Pleasure &rarr; Praise
++ <span class="hl2">Don't:</span> Do As You **Please** on the Sabbath
+  <span class="hl1">(v13a,c)</span>
++ <span class="hl2">Do:</span> Consider Its **Joy** and **Gravity**
+  <span class="hl1">(v13b)</span>
++ <span class="hl2">Then God Will:</span>
+  Be Your **Joy** and **Triumph**
+  <span class="hl1">(v14)</span>
 
-if you call the Sabbath a **delight** <br/>
-and the Lord’s holy day **honorable**,
+---
+
+<span class="hl1">(13)</span>
+If you keep your feet from breaking the **Sabbath** <br/>
+and from doing **as you please** on my holy day, [...]
 
 and if you honor it by not going your **own way** <br/>
 and not doing **as you please** or speaking **idle** words,
+
+---
+
+<span class="hl1">(13)</span>
+if you call the Sabbath a **delight** <br/>
+and the Lord’s holy day **honorable**,
 
 ---
 
@@ -376,8 +414,6 @@ on the heights of the land
 
 and to **feast on the inheritance** <br/>
 of your father Jacob.
-
-The mouth of the Lord has spoken.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
