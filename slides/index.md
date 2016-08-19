@@ -6,14 +6,13 @@
 [weekend.seanho.com](http://weekend.seanho.com)
 
 ---
+<!-- .slide: class="Q" data-background="white" -->
+# What are your **weekends** for?
 
-## Isaiah 58
-1. Pretending &rarr; **Protecting**
-  <span class="hl1">(v3-9a)</span>
-2. Pride &rarr; **Providence**
-  <span class="hl1">(v9b-12)</span>
-3. Pleasure &rarr; **Praise**
-  <span class="hl1">(v13-14)</span>
+>>>
++ demands of **family**
++ "**me**" time
++ dose of 2hrs of **church**
 
 ---
 
@@ -67,7 +66,8 @@ a day **acceptable to the Lord**?
 ---
 
 ## Isaiah 58:6-7 (NIV) (p.5/10)
-Is not this the kind of fasting I have chosen: <br/>
+Is not this the kind of fasting I have chosen:
+
 to loose the **chains of injustice** <br/>
 and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
@@ -142,3 +142,53 @@ and to **feast on the inheritance** <br/>
 of your father Jacob.
 
 The mouth of the Lord has spoken.
+
+---
+
+## Isaiah 58
+1. Pretending &rarr; **Protecting**
+  <span class="hl1">(v3-9a)</span>
+2. Pride &rarr; **Providence**
+  <span class="hl1">(v9b-12)</span>
+3. Pleasure &rarr; **Praise**
+  <span class="hl1">(v13-14)</span>
+
+---
+
+## Isaiah 58:1-2 (NIV)
+**Shout** it aloud, do not hold back. <br/>
+Raise your **voice** like a trumpet.
+
+Declare to my people their **rebellion** <br/>
+and to the descendants of Jacob their **sins**.
+
+>>>
++ not beyond **hope**
+
+---
+
+## Isaiah 58:2-3 (NIV)
+For day after day they **seek me out**; <br/>
+they **seem eager** to know my ways,
+
+as if they were a nation that **does what is right** <br/>
+and has not **forsaken the commands** of its God.
+
+They ask me for **just decisions** <br/>
+and seem eager for God to **come near** them.
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+
+# Q1
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+
+# Q2
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+
+# Q3
+
