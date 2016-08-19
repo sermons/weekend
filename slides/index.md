@@ -7,7 +7,8 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What are my **weekends** for?
+# What are my
+# **weekends** for?
 
 >>>
 + demands of **family**
@@ -155,7 +156,7 @@ The mouth of the Lord has spoken.
 
 ---
 
-## Isaiah 58:2 (NIV)
+<span class="hl1">(2)</span>
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
 
@@ -173,14 +174,14 @@ and to the descendants of Jacob their **sins**.
 2. <span class="hl2">Do:</span>
   **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-3. <span class="hl2">Then God Will:</span> <br/>
+3. <span class="hl2">Then God Will:</span>
   **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
 ---
 
-## Isaiah 58:2-3 (NIV)
-[...] day after day they **seek me out**; <br/>
+<span class="hl1">(2)</span>
+day after day they **seek me out**; <br/>
 they **seem eager** to know my ways, [...]
 
 They ask me for **just decisions** <br/>
@@ -193,8 +194,8 @@ and seem eager for God to **come near** them.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
 
-## Isaiah 58:5 (NIV)
-[...] only a day for people to **humble themselves**?
+<span class="hl1">(5)</span>
+only a day for people to **humble themselves**?
 
 Is it only for **bowing one’s head** like a reed <br/>
 and for lying in **sackcloth and ashes**?
@@ -208,7 +209,7 @@ and for lying in **sackcloth and ashes**?
 
 ---
 
-## Isaiah 58:3-4 (NIV)
+<span class="hl1">(3)</span>
 You do **as you please** <br/>
 and **exploit** all your workers.
 
@@ -220,7 +221,7 @@ and in **striking each other** with wicked fists.
 
 ---
 
-## Isaiah 58:6 (NIV)
+<span class="hl1">(6)</span>
 To loose the **chains of injustice** <br/>
 and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
@@ -235,7 +236,7 @@ and **break every yoke**?
 
 ---
 
-## Isaiah 58:7 (NIV)
+<span class="hl1">(7)</span>
 To **share your food** with the hungry <br/>
 and to provide the poor wanderer with **shelter** — <br/>
 when you see the naked, to **clothe them**, <br/>
@@ -250,7 +251,7 @@ and not to turn away from your own **flesh and blood**?
 
 ---
 
-## Isaiah 58:8-9 (NIV) (p.6/10)
+<span class="hl1">(8)</span>
 Then your **light** will break forth like the dawn, <br/>
 and your **healing** will quickly appear;
 
@@ -259,6 +260,12 @@ and the glory of the Lord will be your **rear guard**.
 
 Then you will **call**, and the Lord will **answer**; <br/>
 you will **cry for help**, and he will say: **Here am I**.
+
+>>>
++ We **protect** the oppressed
+  + &Rarr; God protects / **surrounds** us
++ We **respond** to cry of the poor
+  + &Rarr; God responds to our **prayer**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -271,7 +278,7 @@ you will **cry for help**, and he will say: **Here am I**.
 
 ---
 
-## Isaiah 58:9-10 (NIV) (p.7/10)
+<span class="hl1">(9)</span>
 “If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
 
@@ -283,7 +290,7 @@ and your **night** will become like the noonday.
 
 ---
 
-## Isaiah 58:11-12 (NIV) (p.8/10)
+<span class="hl1">(11)</span>
 The Lord will **guide** you always; <br/>
 he will **satisfy your needs** in a sun-scorched land <br/>
 and will **strengthen** your frame.
@@ -308,7 +315,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 
-## Isaiah 58:12-13 (NIV) (p.9/10)
+<span class="hl1">(12)</span>
 “If you keep your feet from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
@@ -320,7 +327,7 @@ and not doing **as you please** or speaking **idle** words,
 
 ---
 
-## Isaiah 58:14 (NIV) (p.10/10)
+<span class="hl1">(14)</span>
 Then you will **find your joy** in the Lord,
 
 and I will cause you to **ride in triumph** <br/>
