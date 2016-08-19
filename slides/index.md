@@ -146,13 +146,10 @@ The mouth of the Lord has spoken.
 
 ---
 
-## Isaiah 58
-1. Pretending &rarr; **Protecting**
-  <span class="hl1">(v3-9a)</span>
-2. Pride &rarr; **Providence**
-  <span class="hl1">(v9b-12)</span>
-3. Pleasure &rarr; **Praise**
-  <span class="hl1">(v13-14)</span>
+## Is58: Redeeming the Weekends
+1. Pretending &rarr; **Protecting** <span class="hl1">(v3-9a)</span>
+2. Pride &rarr; **Providence** <span class="hl1">(v9b-12)</span>
+3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
 
 ---
 
@@ -167,14 +164,12 @@ and to the descendants of Jacob their **sins**.
 
 ---
 
-## Pretending &rarr; Protecting
-1. <span class="hl2">Don't:</span>
-  Pursue **Appearance** of Humility
+## 1. Pretending &rarr; Protecting
++ <span class="hl2">Don't:</span> Pursue **Appearance** of Humility
   <span class="hl1">(v2-5)</span>
-2. <span class="hl2">Do:</span>
-  **Protect** the Oppressed
++ <span class="hl2">Do:</span> **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-3. <span class="hl2">Then God Will:</span>
++ <span class="hl2">Then God Will:</span>
   **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
@@ -221,6 +216,22 @@ and in **striking each other** with wicked fists.
 
 ---
 
+## 1. Pretending &rarr; Protecting
++ <span class="hl2">Don't:</span> Pursue **Appearance** of Humility
+  <span class="hl1">(v2-5)</span>
++ <span class="hl2">Do:</span> **Protect** the Oppressed
+  <span class="hl1">(v6-7)</span>
++ <span class="hl2">Then God Will:</span>
+  **Answer** Your Cry and **Protect** You
+  <span class="hl1">(v8-9)</span>
+
+>>>
++ OK so the **facade** of humility
+  + only leads to **conflict**
++ So what **should** we do?
+
+---
+
 <span class="hl1">(6)</span>
 To loose the **chains of injustice** <br/>
 and untie the **cords of the yoke**, <br/>
@@ -251,6 +262,22 @@ and not to turn away from your own **flesh and blood**?
 
 ---
 
+## 1. Pretending &rarr; Protecting
++ <span class="hl2">Don't:</span> Pursue **Appearance** of Humility
+  <span class="hl1">(v2-5)</span>
++ <span class="hl2">Do:</span> **Protect** the Oppressed
+  <span class="hl1">(v6-7)</span>
++ <span class="hl2">Then God Will:</span>
+  **Answer** Your Cry and **Protect** You
+  <span class="hl1">(v8-9)</span>
+
+>>>
++ **Action**, not **appearance**
+  + impact, not image
++ And God has a **promise**:
+
+---
+
 <span class="hl1">(8)</span>
 Then your **light** will break forth like the dawn, <br/>
 and your **healing** will quickly appear;
@@ -262,9 +289,9 @@ Then you will **call**, and the Lord will **answer**; <br/>
 you will **cry for help**, and he will say: **Here am I**.
 
 >>>
-+ We **protect** the oppressed
++ As we **protect** the oppressed
   + &Rarr; God protects / **surrounds** us
-+ We **respond** to cry of the poor
++ As we **respond** to cry of poor
   + &Rarr; God responds to our **prayer**
 
 ---
@@ -275,6 +302,13 @@ you will **cry for help**, and he will say: **Here am I**.
 
 >>>
 + Trust in God's protection
+
+---
+
+## Is58: Redeeming the Weekends
+1. <span class="hl2">Pretending &rarr; *Protecting* (v3-9a)</span>
+2. **Pride &rarr; Providence** <span class="hl1">(v9b-12)</span>
+3. <span class="hl2">Pleasure &rarr; *Praise* (v13-14)</span>
 
 ---
 
@@ -312,6 +346,13 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 >>>
 + Trust in God's providence
+
+---
+
+## Is58: Redeeming the Weekends
+1. <span class="hl2">Pretending &rarr; *Protecting* (v3-9a)</span>
+2. <span class="hl2">Pride &rarr; *Providence* (v9b-12)</span>
+3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
 
 ---
 
