@@ -311,7 +311,7 @@ you will **cry for help**, and he will say: **Here am I**.
 + <span class="hl2">Do:</span> **Provide** for the Needy
   <span class="hl1">(v10a)</span>
 + <span class="hl2">God Promises To:</span>
-  **Satisfy** Your Needs and **Restore**
+  **Satisfy** Your Needs and **Restore** You <br/>
   <span class="hl1">(v10b-12)</span>
 
 ---
