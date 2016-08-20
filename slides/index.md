@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 # Redeeming the Weekends
 ## Isaiah 58
 
@@ -145,6 +145,7 @@ of your father Jacob.
 The mouth of the Lord has spoken.
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
 ## Is58: Redeeming the Weekends
 1. Pretending &rarr; **Protecting** <span class="hl1">(v3-9a)</span>
@@ -152,6 +153,7 @@ The mouth of the Lord has spoken.
 3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/father_son_walk.jpg" -->
 
 <span class="hl1">(2)</span>
 Declare to my people their **rebellion** <br/>
@@ -159,10 +161,13 @@ and to the descendants of Jacob their **sins**.
 
 >>>
 + not beyond **hope**
++ show sin so we can repent/**change**
+  + as **father** to son
 + 57:15 **contrite**
   + vs 57:18-21 restless **wicked**
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
 ## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't:</span> Pursue **Appearance** of Humility
@@ -174,6 +179,7 @@ and to the descendants of Jacob their **sins**.
   <span class="hl1">(v8-9)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 
 <span class="hl1">(2)</span>
 day after day they **seek me out**; <br/>
@@ -203,6 +209,7 @@ and for lying in **sackcloth and ashes**?
 + e.g., devos at **camp**
 
 ---
+<!-- .slide: data-background-image="static/bg/fist.jpg" -->
 
 <span class="hl1">(3)</span>
 You do **as you please** <br/>
@@ -215,6 +222,7 @@ and in **striking each other** with wicked fists.
 + family argue **more** on wknd?
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
 ## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
@@ -228,6 +236,7 @@ and in **striking each other** with wicked fists.
 + So what **should** we do?
 
 ---
+<!-- .slide: data-background-image="static/bg/pixabay-1290860-padlock.jpg" -->
 
 <span class="hl1">(6)</span>
 To loose the **chains of injustice** <br/>
@@ -244,6 +253,7 @@ and **break every yoke**?
 + **Addictions**
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
 
 <span class="hl1">(7)</span>
 To **share your food** with the hungry <br/>
@@ -259,6 +269,7 @@ and not to turn away from your own **flesh and blood**?
   + more **blessed** &Rarr; more to **give**
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
 ## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
@@ -272,6 +283,7 @@ and not to turn away from your own **flesh and blood**?
 + And God has a **promise**:
 
 ---
+<!-- .slide: data-background-image="static/bg/pexels-16013-edson-light_road.jpg" -->
 
 <span class="hl1">(8)</span>
 then your righteousness will **go before** you, <br/>
@@ -297,6 +309,7 @@ you will **cry for help**, and he will say: **Here am I**.
 + Act of **faith** in God's protection
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
 ## Is58: Redeeming the Weekends
 1. <span class="hl2">Pretending &rarr; Protecting (v3-9a)</span>
@@ -371,6 +384,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 + Trust in God's providence
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
 ## Is58: Redeeming the Weekends
 1. <span class="hl2">Pretending &rarr; Protecting (v3-9a)</span>
@@ -420,3 +434,10 @@ of your father Jacob.
 # Do I care more about my own **plans**
 # than declaring God's **glory**?
 
+---
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+
+## Is58: Redeeming the Weekends
+1. Pretending &rarr; **Protecting** <span class="hl1">(v3-9a)</span>
+2. Pride &rarr; **Providence** <span class="hl1">(v9b-12)</span>
+3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
