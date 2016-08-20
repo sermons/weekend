@@ -174,8 +174,7 @@ and to the descendants of Jacob their **sins**.
   <span class="hl1">(v2-5)</span>
 + <span class="hl2">Do:</span> **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-+ <span class="hl2">God Promises To:</span>
-  **Answer** Your Cry and **Protect** You
++ <span class="hl2">Promise:</span> **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
 ---
@@ -224,11 +223,10 @@ and in **striking each other** with wicked fists.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
-## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
 + Do: **Protect** the Oppressed
   <span class="hl1">(v6-7)</span>
-+ <span class="hl2">God Promises To: Answer Your Cry and Protect You (v8-9)</span>
++ <span class="hl2">Promise: Answer Your Cry and Protect You (v8-9)</span>
 
 >>>
 + OK so the **facade** of humility
@@ -271,10 +269,9 @@ and not to turn away from your own **flesh and blood**?
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
-## 1. Pretending &rarr; Protecting
 + <span class="hl2">Don't: Pursue Appearance of Humility (v2-5)</span>
 + <span class="hl2">Do: Protect the Oppressed (v6-7)</span>
-+ God Promises To: **Answer** Your Cry and **Protect** You
++ Promise: **Answer** Your Cry and **Protect** You
   <span class="hl1">(v8-9)</span>
 
 >>>
@@ -317,37 +314,43 @@ you will **cry for help**, and he will say: **Here am I**.
 3. <span class="hl2">Pleasure &rarr; Praise (v13-14)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 ## 2. Pride &rarr; Providence
 + <span class="hl2">Don't:</span> Presume **Superiority**
   <span class="hl1">(v9b)</span>
 + <span class="hl2">Do:</span> **Provide** for the Needy
   <span class="hl1">(v10a)</span>
-+ <span class="hl2">God Promises To:</span>
-  **Satisfy** Your Needs and **Restore** You <br/>
++ <span class="hl2">Promise:</span>
+  **Satisfy** Needs and **Restore** You <br/>
   <span class="hl1">(v10b-12)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
 
 <span class="hl1">(9)</span>
 If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
 
 >>>
-+ Oppression: master / slave
-+ Pointing: superiority (not blame)
-+ Talk: with intent to harm, slander
++ Don't: Presume **Superiority**
++ **Oppression**: master / slave
++ **Pointing**: superiority (not blame)
++ Talk: with intent to harm, **slander**
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 <span class="hl1">(10)</span>
 if you **spend yourselves** in behalf of the hungry <br/>
 and **satisfy the needs** of the oppressed,
 
 >>>
-+ KJV: draw out your soul
++ Do: **Provide** for the Needy
++ KJV: **draw out** your soul
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 <span class="hl1">(11)</span>
 [...]
@@ -358,11 +361,13 @@ You will be like a **well-watered garden**, <br/>
 like a **spring** whose waters never fail.
 
 >>>
++ God's Promise (1): **Satisfy** Your Needs
 + As we provide for others
   + God provides for us
 + Even more, God gives us a **title**:
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-njM4it9erx4-peru_ruins.jpg" -->
 
 <span class="hl1">(12)</span>
 Your people will **rebuild** the ancient ruins <br/>
@@ -372,6 +377,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 **Restorer** of Streets with Dwellings.
 
 >>>
++ God's Promise (2): **Restore** You
 + **We** are the repairers / restorers!
 
 ---
@@ -392,13 +398,14 @@ you will be called **Repairer** of Broken Walls, <br/>
 3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 ## 3. Pleasure &rarr; Praise
 + <span class="hl2">Don't:</span> Do As You **Please** on the Sabbath
   <span class="hl1">(v13a,c)</span>
 + <span class="hl2">Do:</span> Consider Its **Joy** and **Gravity**
   <span class="hl1">(v13b)</span>
-+ <span class="hl2">God Promises To:</span>
++ <span class="hl2">Promise:</span>
   Be Your **Joy** and **Triumph**
   <span class="hl1">(v14)</span>
 
@@ -411,11 +418,18 @@ and from doing **as you please** on my holy day, [...]
 and if you honor it by not going your **own way** <br/>
 and not doing **as you please** or speaking **idle** words,
 
+>>>
++ Don't: Do as you **please**
++ "me" time
+
 ---
 
 <span class="hl1">(13)</span>
 if you call the Sabbath a **delight** <br/>
 and the Lord’s holy day **honorable**,
+
+>>>
++ Do: Consider its **joy** and **gravity**
 
 ---
 
@@ -427,6 +441,20 @@ on the heights of the land
 
 and to **feast on the inheritance** <br/>
 of your father Jacob.
+
+>>>
++ God's Promise: Be Your **joy** and **triumph**
++ Not: God **gives** you joy, but
+  + Find joy **in** the Lord
+
+---
+
+## Psalm 37:4 (NIV)
+Take **delight** in the Lord, <br/>
+and he will give you the **desires** of your heart.
+
+>>>
++ 5: commit your way, trust in Him
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
