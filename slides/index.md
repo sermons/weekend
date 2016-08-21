@@ -313,9 +313,6 @@ Then you will **find your joy** in the Lord,
 and I will cause you to **ride in triumph** <br/>
 on the heights of the land
 
-and to **feast on the inheritance** <br/>
-of your father Jacob.
-
 >>>
 + God's Promise: Be Your **joy** and **triumph**
 + Not: God **gives** you joy, but
