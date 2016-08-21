@@ -410,6 +410,7 @@ you will be called **Repairer** of Broken Walls, <br/>
   <span class="hl1">(v14)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
 
 <span class="hl1">(13)</span>
 If you keep your feet from breaking the **Sabbath** <br/>
@@ -423,6 +424,7 @@ and not doing **as you please** or speaking **idle** words,
 + "me" time
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-K2SXdKPEhcg-feather.jpg" -->
 
 <span class="hl1">(13)</span>
 if you call the Sabbath a **delight** <br/>
@@ -432,6 +434,7 @@ and the Lord’s holy day **honorable**,
 + Do: Consider its **joy** and **gravity**
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 <span class="hl1">(14)</span>
 Then you will **find your joy** in the Lord,
@@ -448,13 +451,19 @@ of your father Jacob.
   + Find joy **in** the Lord
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 
-## Psalm 37:4 (NIV)
+## Psalm 37:4-5 (NIV)
 Take **delight** in the Lord, <br/>
 and he will give you the **desires** of your heart.
 
+**Commit** your way to the Lord; **trust** in him [...]
+
 >>>
-+ 5: commit your way, trust in Him
++ joy: in the Lord Himself
++ giver, not the gift
+  + face, not only the hand
++ commit, trust: obey
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
