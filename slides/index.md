@@ -325,10 +325,10 @@ of your father Jacob.
 <!-- .slide: data-background-image="static/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 
 ## Psalm 37:4-5 (ESV)
-**Delight** yourself in the LORD,
+**Delight** yourself in the LORD, <br/>
 and he will give you the **desires** of your heart.
 
-**Commit** your way to the LORD;
+**Commit** your way to the LORD; <br/>
 **trust** in him, and he will act.
 
 >>>
