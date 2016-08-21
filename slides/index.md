@@ -193,7 +193,7 @@ you will **cry for help**, and he will say: **Here am I**.
 + <span class="hl2">Do:</span> **Provide** for the Needy
   <span class="hl1">(v10a)</span>
 + <span class="hl2">Promise:</span>
-  **Satisfy** Needs and **Restore** You <br/>
+  **Satisfy** Needs and **Restore** You
   <span class="hl1">(v10b-12)</span>
 
 ---
@@ -349,3 +349,6 @@ and he will give you the **desires** of your heart.
 1. Pretending &rarr; **Protecting** <span class="hl1">(v3-9a)</span>
 2. Pride &rarr; **Providence** <span class="hl1">(v9b-12)</span>
 3. Pleasure &rarr; **Praise** <span class="hl1">(v13-14)</span>
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" class="empty" -->
