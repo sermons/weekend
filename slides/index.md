@@ -324,11 +324,12 @@ of your father Jacob.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 
-## Psalm 37:4-5 (NIV)
-Take **delight** in the Lord, <br/>
+## Psalm 37:4-5 (ESV)
+**Delight** yourself in the LORD,
 and he will give you the **desires** of your heart.
 
-**Commit** your way to the Lord; **trust** in him [...]
+**Commit** your way to the LORD;
+**trust** in him, and he will act.
 
 >>>
 + joy: in the Lord Himself
