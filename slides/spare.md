@@ -1,6 +1,3 @@
-
----
-
 ## Isaiah 58:1-2 (NIV) (p.1/10)
 **Shout** it aloud, do not hold back. <br/>
 Raise your **voice** like a trumpet. <br/>
@@ -127,4 +124,3 @@ and to **feast on the inheritance** <br/>
 of your father Jacob.
 
 The mouth of the Lord has spoken.
-

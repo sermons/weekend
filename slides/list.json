@@ -1,6 +1,6 @@
 [
   {
-    "filename": "index.md",
+    "filename": "sample.md",
     "attr": {
       "data-separator": "^\\s{0,3}-\\s*-\\s*-[-\\s]*$",
       "data-separator-vertical": "^\\s{0,3}\\*\\s*\\*\\s*\\*[\\*\\s]*$",
@@ -8,4 +8,4 @@
       "data-charset": "utf8"
     }
   }
-]
+}
