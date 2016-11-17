@@ -1,29 +1,46 @@
 {
-  "name": "redeeming-weekends",
-  "version": "0.3.0",
+  "name": "@sermons/redeeming-weekends",
+  "version": "1.3.0",
+  "repository": "sermons/redeeming-weekends",
+  "description": "Is58, Redeeming the Weekends",
+  "keywords": ["slides", "sermon", "talks", "ppt"],
+  "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
+  "config": {
+    "pretty_url": "weekend.seanho.com",
+    "cname": "weekend.seanho.com",
+    "multiplex": {
+      "url": "https://mp-seanho00.rhcloud.com:8443/",
+      "id": "f2a2122439c91771"
+    },
+    "git": {
+      "name": "Sean Ho",
+      "email": "travis@seanho.com"
+    },
+    "history": [
+      {
+        "venue": "Venue of talk",
+        "city": "Location",
+        "date": "2000-01-01"
+      }
+    ]
+  },
+  "license": "CC-BY-SA-4.0",
   "private": true,
   "devDependencies": {
-    "bower": "^1.7.9",
     "grunt": "^1.0.1",
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-jshint": "^1.0.0",
-    "load-grunt-tasks": "^3.5.0",
-    "grunt-build-control": "^0.7.0",
+    "load-grunt-tasks": "^3.5.2",
+    "grunt-exec": "^1.0.1",
+    "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
-    "coffeelint": "^1.15.7"
-  },
-  "engines": {
-    "node": ">=0.10.0",
-    "npm": ">=1.3.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:sermons/redeeming-weekends.git"
+    "coffeelint": "^1.16.0",
+    "phantom": "^3.0.1"
   },
   "scripts": {
     "test": "grunt test",
-    "deploy": "bower install && grunt deploy"
+    "deploy": "grunt deploy"
   }
 }

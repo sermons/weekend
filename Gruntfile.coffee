@@ -1,121 +1,94 @@
-# Generated on 2016-07-11 using generator-reveal 0.5.9
 module.exports = (grunt) ->
 
     grunt.initConfig
-        pkg: grunt.file.readJSON 'package.json'
+        pkg: grunt.file.readJSON('package.json')
+        config:
+            shortname: '<%= pkg.name.replace(new RegExp(".*\/"), "") %>'
 
         watch:
-
-            livereload:
-                options:
-                    livereload: true
-                files: [
-                    'index.html'
-                    'slides/{,*/}*.{md,html}'
-                    'js/*.js'
-                    'static/**'
-                ]
-
             index:
                 files: [
                     'templates/_index.html'
-                    'templates/_section.html'
-                    'slides/list.json'
                 ]
                 tasks: ['buildIndex']
-
             coffeelint:
                 files: ['Gruntfile.coffee']
                 tasks: ['coffeelint']
-
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
 
         connect:
-
-            livereload:
+            serve:
                 options:
                     port: 9000
-                    # Change hostname to '0.0.0.0' to access
-                    # the server from outside.
                     hostname: 'localhost'
-                    base: '.'
-                    open: true
-                    livereload: true
 
         coffeelint:
-
             options:
                 indentation:
                     value: 4
                 max_line_length:
                     level: 'ignore'
-
             all: ['Gruntfile.coffee']
 
         jshint:
-
             options:
                 jshintrc: '.jshintrc'
-
             all: ['js/*.js']
 
-        copy:
+        exec:
+            print: 'phantomjs rasterise.js "http://localhost:9000/?print-pdf" static/<%= config.shortname %>.pdf'
+            printHD: 'phantomjs --debug=true rasterise.js "http://localhost:9000/?print-pdf" static/<%= config.shortname %>-HD.pdf 1920 1080'
+            thumbnail: 'convert -resize 50% static/<%= config.shortname %>.pdf[0] static/img/thumbnail.jpg'
 
+        copy:
             dist:
                 files: [{
                     expand: true
                     src: [
                         'slides/**'
-                        'bower_components/**'
-                        'js/**'
                         'static/**'
                     ]
                     dest: 'dist/'
                 },{
                     expand: true
-                    src: ['index.html', 'CNAME', 'favicon.ico']
+                    src: ['index.html', 'CNAME', 'favicon.ico', '.nojekyll']
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
 
 
         buildcontrol:
-
             options:
                 dir: 'dist'
                 commit: true
                 push: true
-                message: 'Built from %sourceCommit% on branch %sourceBranch%'
+                fetchProgress: false
                 config:
-                    'user.name': 'Sean Ho'
-                    'user.email': 'travis@seanho.com'
-            pages:
+                    'user.name': '<%= pkg.config.git.name %>'
+                    'user.email': '<%= pkg.config.git.email %>'
+            github:
                 options:
-                    remote: '<%= pkg.repository.url %>'
+                    remote: 'git@github.com:<%= pkg.repository %>'
                     branch: 'gh-pages'
-
-
 
     # Load all grunt tasks.
     require('load-grunt-tasks')(grunt)
 
     grunt.registerTask 'buildIndex',
-        'Build index.html from templates/_index.html and slides/list.json.',
+        'Build index.html from templates/_index.html.',
         ->
             indexTemplate = grunt.file.read 'templates/_index.html'
-            sectionTemplate = grunt.file.read 'templates/_section.html'
-            slides = grunt.file.readJSON 'slides/list.json'
-
             html = grunt.template.process indexTemplate, data:
-                slides:
-                    slides
-                section: (slide) ->
-                    grunt.template.process sectionTemplate, data:
-                        slide:
-                            slide
+                pkg: grunt.config 'pkg'
+                config: grunt.config 'config'
             grunt.file.write 'index.html', html
+
+    grunt.registerTask 'cname',
+        'Create CNAME from NPM config if needed.', ->
+            if grunt.config 'pkg.config.cname'
+                grunt.file.write 'CNAME', grunt.config 'pkg.config.cname'
 
     grunt.registerTask 'test',
         '*Lint* javascript and coffee files.', [
@@ -124,26 +97,32 @@ module.exports = (grunt) ->
         ]
 
     grunt.registerTask 'serve',
-        'Run presentation locally and start watch process (living document).', [
+        'Run presentation locally', [
             'buildIndex'
-            'connect:livereload'
-            'watch'
+            'connect'
+        ]
+
+    grunt.registerTask 'pdf',
+        'Render a PDF copy of the presentation (using PhantomJS)', [
+            'buildIndex'
+            'connect:serve'
+            'exec:print'
+            'exec:printHD'
+            'exec:thumbnail'
         ]
 
     grunt.registerTask 'dist',
         'Save presentation files to *dist* directory.', [
-            'test'
-            'buildIndex'
+            'pdf'
+            'cname'
             'copy'
         ]
-
 
     grunt.registerTask 'deploy',
         'Deploy to Github Pages', [
             'dist'
             'buildcontrol'
         ]
-
 
     # Define default task.
     grunt.registerTask 'default', [
