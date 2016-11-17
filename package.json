@@ -18,8 +18,68 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Tri-Cities Chinese Church",
+        "city": "Port Coquitlam",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "China Christian Gospel Church",
+        "city": "Burnaby",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Bethel Chinese MB Church",
+        "city": "Vancouver",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Christ Church of China",
+        "city": "Coquitlam",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "First Chinese NA Baptist",
+        "city": "Vancouver",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Richmond Peace Chinese Mennonite",
+        "city": "Richmond",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Richmond Chinese MB Church",
+        "city": "Richmond",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Surrey",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Pacific Grace Mandarin Church",
+        "city": "Burnaby",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "North Shore Pacific Grace MB",
+        "city": "North Vancouver",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Evangelical Chinese Church",
+        "city": "Seattle",
+        "date": "2000-01-01"
+      },
+      {
+        "venue": "Evangelical Chinese Church",
+        "city": "Redmond",
         "date": "2000-01-01"
       }
     ]
