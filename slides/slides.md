@@ -19,9 +19,9 @@
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
 ## Is58: Redeeming the Weekends
-1. Pretending &rarr; **Protecting** <span class="ref">(v3-9a)</span>
-2. Pride &rarr; **Providence** <span class="ref">(v9b-12)</span>
-3. Pleasure &rarr; **Praise** <span class="ref">(v13-14)</span>
+1. *Pretending* &rarr; **Protecting** <span class="ref">(v3-9a)</span>
+2. *Pride* &rarr; **Providence** <span class="ref">(v9b-12)</span>
+3. *Pleasure* &rarr; **Praise** <span class="ref">(v13-14)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/father_son_walk.jpg" -->
@@ -45,8 +45,8 @@ and to the descendants of Jacob their **sins**.
   <span class="ref">(v2-5)</span>
 + *Do:* **Protect** the Oppressed
   <span class="ref">(v6-7)</span>
-+ *Promise:* **Answer** My Cry <br/>
-  and **Protect** Me <span class="ref">(v8-9)</span>
++ *Promise:* **Answer** my Cry + **Protect**
+  <span class="ref">(v8-9)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
@@ -99,8 +99,8 @@ and in **striking each other** with wicked fists.
   <span class="ref">(v2-5)</span>
 + *Do:* **Protect the Oppressed**
   <span class="ref">(v6-7)</span>
-+ *Promise:* Answer My Cry <br/>
-  and **Protect** Me <span class="ref">(v8-9)</span>
++ *Promise:* Answer my Cry + Protect
+  <span class="ref">(v8-9)</span>
 
 >>>
 + OK so the **facade** of humility
@@ -114,7 +114,7 @@ and in **striking each other** with wicked fists.
 To loose the **chains of injustice** <br/>
 and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
-and **break every yoke**?
+and break every **yoke**?
 
 >>>
 + Justice **defined** by God
@@ -148,8 +148,8 @@ from your own **flesh and blood**?
   <span class="ref">(v2-5)</span>
 + *Do:* Protect the Oppressed
   <span class="ref">(v6-7)</span>
-+ *Promise:* **Answer My Cry** <br/>
-  **and Protect Me** <span class="ref">(v8-9)</span>
++ *Promise:* **Answer my Cry + Protect**
+  <span class="ref">(v8-9)</span>
 
 >>>
 + **Action**, not **appearance**
@@ -199,8 +199,8 @@ you will **cry for help**, and he will say: **Here am I**
   <span class="ref">(v9b)</span>
 + *Do:* **Provide** for the Needy
   <span class="ref">(v10a)</span>
-+ *Promise:* **Satisfy** My Needs <br/>
-  and **Restore** Me <span class="ref">(v10b-12)</span>
++ *Promise:* **Satisfy** Needs + **Restore**
+  <span class="ref">(v10b-12)</span>
 
 ---
 <!-- .slide: data-background-image="static/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
@@ -349,7 +349,7 @@ and he will give you the **desires** of your heart.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 
-## Do I care more about my own **plans**
+## Do I care more about <br/> my own **plans**
 ## than declaring God's **glory**?
 
 ---
