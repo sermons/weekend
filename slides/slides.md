@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
-# Redeeming the Weekends
+# Redeeming <br/> the Weekends
 ## Isaiah 58
 
 >>>
@@ -18,7 +18,7 @@
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Is58: Redeeming the Weekends
+## Isaiah 58: <br/> Redeeming the Weekends
 1. *Pretending* &rarr; **Protecting** <span class="ref">(v3-9a)</span>
 2. *Pride* &rarr; **Providence** <span class="ref">(v9b-12)</span>
 3. *Pleasure* &rarr; **Praise** <span class="ref">(v13-14)</span>
@@ -177,7 +177,7 @@ you will **cry for help**, and he will say: **Here am I**
 <!-- .slide: class="Q" data-background="white" -->
 
 ## Do I care more about **appearing** humble
-## than **protecting** the oppressed?
+## than **protecting** <br/> the oppressed?
 
 >>>
 + Pretending &rarr; Protecting
@@ -186,7 +186,7 @@ you will **cry for help**, and he will say: **Here am I**
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Is58: Redeeming the Weekends
+## Isaiah 58: <br/> Redeeming the Weekends
 1. Pretending &rarr; Protecting <span class="ref">(v3-9a)</span>
 2. **Pride &rarr; Providence** <span class="ref">(v9b-12)</span>
 3. Pleasure &rarr; Praise <span class="ref">(v13-14)</span>
@@ -261,7 +261,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 <!-- .slide: class="Q" data-background="white" -->
 
 ## Do I care more about **justifying** myself
-## than **providing** for the needy?
+## than **providing** for <br/> the needy?
 
 >>>
 + Trust in God's providence
@@ -269,7 +269,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Is58: Redeeming the Weekends
+## Isaiah 58: <br/> Redeeming the Weekends
 1. Pretending &rarr; Protecting <span class="ref">(v3-9a)</span>
 2. Pride &rarr; Providence <span class="ref">(v9b-12)</span>
 3. **Pleasure &rarr; Praise** <span class="ref">(v13-14)</span>
@@ -355,7 +355,7 @@ and he will give you the **desires** of your heart.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Is58: Redeeming the Weekends
+## Isaiah 58: <br/> Redeeming the Weekends
 1. Pretending &rarr; **Protecting** <span class="ref">(v3-9a)</span>
 2. Pride &rarr; **Providence** <span class="ref">(v9b-12)</span>
 3. Pleasure &rarr; **Praise** <span class="ref">(v13-14)</span>
