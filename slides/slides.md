@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 # Redeeming <br/> the Weekends
-## Isaiah 58
+## <span class="ref">Isaiah 58</span>
 
 >>>
 [weekend.seanho.com](http://weekend.seanho.com)
