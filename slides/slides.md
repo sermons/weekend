@@ -275,7 +275,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 3. **Pleasure &rarr; Praise** <span class="ref">(v13-14)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 
 ## 3. Pleasure &rarr; Praise
 + *Don't:* Do As I **Please** on Sabbath
@@ -317,7 +317,7 @@ and the Lord’s holy day **honorable**,
 + Do: Consider its **joy** and **gravity**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 
 <span class="ref">(14)</span>
 Then you will **find your joy** in the Lord,
