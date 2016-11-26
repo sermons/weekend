@@ -1,6 +1,6 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 # Redeeming <br/> the Weekends
-## <span class="ref">Isaiah 58</span>
+## Isaiah 58
 
 >>>
 [weekend.seanho.com](http://weekend.seanho.com)
@@ -16,15 +16,15 @@
 + dose of 2hrs of **church**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Isaiah 58: <br/> Redeeming the Weekends
+## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
 1. *Pretending* &rarr; **Protecting** <span class="ref">(v3-9a)</span>
 2. *Pride* &rarr; **Providence** <span class="ref">(v9b-12)</span>
 3. *Pleasure* &rarr; **Praise** <span class="ref">(v13-14)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
+<!-- .slide: data-background-image="static/bg/father_son_walk.jpg" -->
 
 <span class="ref">(2)</span>
 Declare to my people their **rebellion** <br/>
@@ -38,7 +38,7 @@ and to the descendants of Jacob their **sins**.
   + vs 57:18-21 restless **wicked**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
 ## 1. Pretending &rarr; Protecting
 + *Don't:* Pursue **Appearance** of Humility
@@ -49,7 +49,7 @@ and to the descendants of Jacob their **sins**.
   <span class="ref">(v8-9)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 
 <span class="ref">(2)</span>
 day after day they **seek me out**; <br/>
@@ -63,7 +63,7 @@ and seem eager for God to **come near** them.
 + churchgoers, believe selves good Christians
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
 
 <span class="ref">(5)</span>
 only a day for people <br/>
@@ -80,7 +80,7 @@ and for lying in **sackcloth and ashes**?
 + e.g., devos at **camp**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
+<!-- .slide: data-background-image="static/bg/fist.jpg" -->
 
 <span class="ref">(3)</span>
 You do **as you please** <br/>
@@ -93,7 +93,7 @@ and in **striking each other** with wicked fists.
 + family argue **more** on wknd?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
 + *Don't:* Pursue Appearance of Humility
   <span class="ref">(v2-5)</span>
@@ -108,7 +108,7 @@ and in **striking each other** with wicked fists.
 + So what **should** we do?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1290860-padlock.jpg" -->
+<!-- .slide: data-background-image="static/bg/pixabay-1290860-padlock.jpg" -->
 
 <span class="ref">(6)</span>
 To loose the **chains of injustice** <br/>
@@ -125,7 +125,7 @@ and break every **yoke**?
 + **Addictions**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
 
 <span class="ref">(7)</span>
 To **share your food** with the hungry <br/>
@@ -142,7 +142,7 @@ from your own **flesh and blood**?
   + more **blessed** &Rarr; more to **give**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
 
 + *Don't:* Pursue Appearance of Humility
   <span class="ref">(v2-5)</span>
@@ -157,7 +157,7 @@ from your own **flesh and blood**?
 + And God has a **promise**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pexels-16013-edson-light_road.jpg" -->
+<!-- .slide: data-background-image="static/bg/pexels-16013-edson-light_road.jpg" -->
 
 <span class="ref">(8)</span>
 then your righteousness will **go before** you, <br/>
@@ -184,15 +184,15 @@ you will **cry for help**, and he will say: **Here am I**
 + Act of **faith** in God's protection
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Isaiah 58: <br/> Redeeming the Weekends
+## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
 1. Pretending &rarr; Protecting <span class="ref">(v3-9a)</span>
 2. **Pride &rarr; Providence** <span class="ref">(v9b-12)</span>
 3. Pleasure &rarr; Praise <span class="ref">(v13-14)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 ## 2. Pride &rarr; Providence
 + *Don't:* Presume **Superiority**
@@ -203,7 +203,7 @@ you will **cry for help**, and he will say: **Here am I**
   <span class="ref">(v10b-12)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
+<!-- .slide: data-background-image="static/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
 
 <span class="ref">(9)</span>
 If you do away with the **yoke of oppression**, <br/>
@@ -216,7 +216,7 @@ with the **pointing finger** and **malicious talk**,
 + Talk: with intent to harm, **slander**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 <span class="ref">(10)</span>
 if you **spend yourselves** <br/>
@@ -228,7 +228,7 @@ and **satisfy the needs** of the oppressed,
 + KJV: **draw out** your soul
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
 <span class="ref">(11)</span>
 **satisfy your needs** in a sun-scorched land <br/>
@@ -244,7 +244,7 @@ like a **spring** whose waters never fail.
 + Even more, God gives us a **title**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-njM4it9erx4-peru_ruins.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-njM4it9erx4-peru_ruins.jpg" -->
 
 <span class="ref">(12)</span>
 Your people will **rebuild** the ancient ruins <br/>
@@ -267,15 +267,15 @@ you will be called **Repairer** of Broken Walls, <br/>
 + Trust in God's providence
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Isaiah 58: <br/> Redeeming the Weekends
+## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
 1. Pretending &rarr; Protecting <span class="ref">(v3-9a)</span>
 2. Pride &rarr; Providence <span class="ref">(v9b-12)</span>
 3. **Pleasure &rarr; Praise** <span class="ref">(v13-14)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 ## 3. Pleasure &rarr; Praise
 + *Don't:* Do As I **Please** on Sabbath
@@ -286,7 +286,7 @@ you will be called **Repairer** of Broken Walls, <br/>
   <span class="ref">(v14)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
 
 <span class="ref">(13)</span>
 If you keep your **feet** <br/>
@@ -294,7 +294,7 @@ from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
 
 <span class="ref">(13)</span>
 and if you **honor** it <br/>
@@ -307,7 +307,7 @@ or speaking **idle** words,
 + "me" time
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-K2SXdKPEhcg-feather.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-K2SXdKPEhcg-feather.jpg" -->
 
 <span class="ref">(13)</span>
 if you call the Sabbath a **delight** <br/>
@@ -317,7 +317,7 @@ and the Lord’s holy day **honorable**,
 + Do: Consider its **joy** and **gravity**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 <span class="ref">(14)</span>
 Then you will **find your joy** in the Lord,
@@ -331,7 +331,7 @@ on the heights of the land
   + Find joy **in** the Lord
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 
 ## Psalm 37:4-5 <span class="ref">(ESV)</span>
 **Delight** yourself in the LORD, <br/>
@@ -353,12 +353,12 @@ and he will give you the **desires** of your heart.
 ## than declaring God's **glory**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 
-## Isaiah 58: <br/> Redeeming the Weekends
+## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
 1. Pretending &rarr; **Protecting** <span class="ref">(v3-9a)</span>
 2. Pride &rarr; **Providence** <span class="ref">(v9b-12)</span>
 3. Pleasure &rarr; **Praise** <span class="ref">(v13-14)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" class="empty" -->
+<!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" class="empty" -->
