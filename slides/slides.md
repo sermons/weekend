@@ -11,6 +11,8 @@
 # **weekends** for?
 
 >>>
++ 6 days work / 1 day rest
+  + &rArr; for what purpose?
 + demands of **family**
 + "**me**" time
 + dose of 2hrs of **church**
@@ -32,10 +34,10 @@ and to the descendants of Jacob their **sins**.
 
 >>>
 + not beyond **hope**
-+ show sin so we can repent/**change**
++ show sin &rArr; **change**
   + as **father** to son
-+ 57:15 **contrite**
-  + vs 57:18-21 restless **wicked**
++ 57:15 **contrite**, vs
+  + 18-21 restless **wicked**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
@@ -45,7 +47,7 @@ and to the descendants of Jacob their **sins**.
   <span class="ref">(v2-5)</span>
 + *Do:* **Protect** the Oppressed
   <span class="ref">(v6-7)</span>
-+ *Promise:* **Answer** my Cry + **Protect**
++ *Promise:* **Answer** our Cry + **Protect**
   <span class="ref">(v8-9)</span>
 
 ---
@@ -59,8 +61,9 @@ They ask me for **just decisions** <br/>
 and seem eager for God to **come near** them.
 
 >>>
-+ good guys!
-+ churchgoers, believe selves good Christians
++ **good** guys!
++ **churchgoers**, believe selves good Christians
++ **seek** out God's will
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
@@ -74,7 +77,7 @@ and for lying in **sackcloth and ashes**?
 
 >>>
 + **appearance** of humility
-+ self-abasement
++ self-**abasement**
   + focus: **own** sacrifice+suffering
   + &Rarr; **penance** for sins
 + e.g., devos at **camp**
@@ -99,7 +102,7 @@ and in **striking each other** with wicked fists.
   <span class="ref">(v2-5)</span>
 + *Do:* **Protect the Oppressed**
   <span class="ref">(v6-7)</span>
-+ *Promise:* Answer my Cry + Protect
++ *Promise:* Answer our Cry + Protect
   <span class="ref">(v8-9)</span>
 
 >>>
@@ -117,11 +120,10 @@ to set the **oppressed** free <br/>
 and break every **yoke**?
 
 >>>
-+ Justice **defined** by God
-  + e.g., **internet** a basic human right?
-  + e.g., mom takes away **phone**
-  + right to choose **sexual identity**?
-+ Human **trafficking**
++ Justice: **God** defines
++ e.g., human right to **internet**? 
++ e.g., mom hides **phone**
++ choose **sexual identity**?
 + **Addictions**
 
 ---
@@ -139,7 +141,7 @@ from your own **flesh and blood**?
 + Selfishness affects our **heart**
   + **Sharing** God's grace
 + **ἁπλότης**: simplicity + generosity
-  + more **blessed** &Rarr; more to **give**
+  + **blessed** &Rarr; more to **give**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
@@ -148,7 +150,7 @@ from your own **flesh and blood**?
   <span class="ref">(v2-5)</span>
 + *Do:* Protect the Oppressed
   <span class="ref">(v6-7)</span>
-+ *Promise:* **Answer my Cry + Protect**
++ *Promise:* **Answer our Cry + Protect**
   <span class="ref">(v8-9)</span>
 
 >>>
@@ -168,10 +170,10 @@ Then you will **call**, and the Lord will **answer**; <br/>
 you will **cry for help**, and he will say: **Here am I**
 
 >>>
-+ As we **protect** the oppressed
-  + &Rarr; God protects / **surrounds** us
-+ As we **respond** to cry of poor
-  + &Rarr; God responds to our **prayer**
++ We **protect** the oppressed &rArr;
+  + God **surrounds** us
++ We **respond** to cry of poor &rArr;
+  + God responds to **prayer**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -191,6 +193,12 @@ you will **cry for help**, and he will say: **Here am I**
 2. **Pride &rarr; Providence** <span class="ref">(v9b-12)</span>
 3. Pleasure &rarr; Praise <span class="ref">(v13-14)</span>
 
+>>>
++ 2nd section echoes theme:
++ **inward**, selfish pride &rArr;
+  + **outward** focus
+  + **provide** for others
+
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 
@@ -202,6 +210,12 @@ you will **cry for help**, and he will say: **Here am I**
 + *Promise:* **Satisfy** Needs + **Restore**
   <span class="ref">(v10b-12)</span>
 
+>>>
++ **neg**: heart attitude
++ **pos**: action in faith
++ **promise**: as we bless others
+  + God blesses us
+
 ---
 <!-- .slide: data-background-image="static/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
 
@@ -212,8 +226,10 @@ with the **pointing finger** and **malicious talk**,
 >>>
 + Don't: Presume **Superiority**
 + **Oppression**: master / slave
-+ **Pointing**: superiority (not blame)
-+ Talk: with intent to harm, **slander**
++ **Pointing**: superiority
+  + (not blame)
++ Talk: **slander**
+  + with **intent** to harm
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -225,7 +241,12 @@ and **satisfy the needs** of the oppressed,
 
 >>>
 + Do: **Provide** for the Needy
++ e.g. expend life on **kids**
+  + &rArr; **expand** generosity
+  + to **family**, then
+  + **beyond** family
 + KJV: **draw out** your soul
++ God has 2-part **promise**:
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -238,9 +259,11 @@ You will be like a **well-watered garden**, <br/>
 like a **spring** whose waters never fail.
 
 >>>
-+ God's Promise (1): **Satisfy** Your Needs
++ Promise (1): **Satisfy** Your Needs
 + As we provide for others
-  + God provides for us
+  + God **provides** for us
++ need not **fear**:
+  + not a **zero-sum**
 + Even more, God gives us a **title**:
 
 ---
@@ -256,6 +279,8 @@ you will be called **Repairer** of Broken Walls, <br/>
 >>>
 + God's Promise (2): **Restore** You
 + **We** are the repairers / restorers!
++ by God's **strength**
++ sharing God's **grace**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -264,7 +289,8 @@ you will be called **Repairer** of Broken Walls, <br/>
 ## than **providing** for <br/> the needy?
 
 >>>
-+ Trust in God's providence
++ **Trust** in God's providence
++ act of **faith**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
@@ -274,16 +300,28 @@ you will be called **Repairer** of Broken Walls, <br/>
 2. Pride &rarr; Providence <span class="ref">(v9b-12)</span>
 3. **Pleasure &rarr; Praise** <span class="ref">(v13-14)</span>
 
+>>>
++ first 2 sections: **anytime**
+  + **worship** in practise
+  + **faith** in action
++ last section: **Sabbath**
+  + 1/7 specifically for God
+  + **more** than just church! 
+
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
 
 ## 3. Pleasure &rarr; Praise
-+ *Don't:* Do As I **Please** on Sabbath
++ *Don't:* Do as We **Please** on Sabbath
   <span class="ref">(v13)</span>
 + *Do:* Consider Its **Joy** and **Gravity**
   <span class="ref">(v13b)</span>
-+ *Promise:* Be My **Joy** and **Triumph**
++ *Promise:* Be Our **Joy** and **Triumph**
   <span class="ref">(v14)</span>
+
+>>>
++ what are we supposed to do on the Sabbath? 
++ neg &rarr; pos &rarr; promise
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
@@ -303,8 +341,14 @@ and not doing **as you please** <br/>
 or speaking **idle** words,
 
 >>>
-+ Don't: Do as you **please**
-+ "me" time
++ Don't: Do as you **Please**
++ esp those who **serve**:
+  + retail, cust svc
+  + keep clients happy
+  + moms, teachers
++ &rArr; indulge **self**
+  +  "me" time: **deserve** it
++ Don't **honour** self, but:
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-K2SXdKPEhcg-feather.jpg" -->
@@ -314,6 +358,8 @@ if you call the Sabbath a **delight** <br/>
 and the Lord’s holy day **honorable**,
 
 >>>
++ honour God **first**, and
+  + He will **exalt** you
 + Do: Consider its **joy** and **gravity**
 
 ---
@@ -329,6 +375,8 @@ on the heights of the land
 + God's Promise: Be Your **joy** and **triumph**
 + Not: God **gives** you joy, but
   + Find joy **in** the Lord
++ **Lasting** joy + triumph
+  + not fleeting **addictions**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
