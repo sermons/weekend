@@ -25,6 +25,11 @@
 2. *Pride* &rarr; **Providence** <span class="ref">(v9b-12)</span>
 3. *Pleasure* &rarr; **Praise** <span class="ref">(v13-14)</span>
 
+>>>
++ call to **action**
++ **change** how spend weekend
+  + view of **worship**
+
 ---
 <!-- .slide: data-background-image="static/bg/father_son_walk.jpg" -->
 
@@ -64,6 +69,9 @@ and seem eager for God to **come near** them.
 + **good** guys!
 + **churchgoers**, believe selves good Christians
 + **seek** out God's will
++ **fasting**: voluntary sacrifice
+  + to **worship** God
+  + be **holy**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
@@ -79,7 +87,7 @@ and for lying in **sackcloth and ashes**?
 + **appearance** of humility
 + self-**abasement**
   + focus: **own** sacrifice+suffering
-  + &Rarr; **penance** for sins
+  + &rArr; **penance** for sins
 + e.g., devos at **camp**
 
 ---
