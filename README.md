@@ -1,4 +1,5 @@
-# Isaiah 58, "Redeeming the Weekends"
+# Redeeming the Weekends
+## Isaiah 58
 
 [![Travis-CI build status](https://travis-ci.org/sermons/redeeming-weekends.svg)](https://travis-ci.org/sermons/redeeming-weekends)
 [![Node dependencies](https://david-dm.org/sermons/redeeming-weekends.svg)](https://david-dm.org/sermons/redeeming-weekends)
