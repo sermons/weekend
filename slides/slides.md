@@ -1,12 +1,12 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 # Redeeming <br/> the Weekends
 ## Isaiah 58
 
 >>>
-[weekend.seanho.com](http://weekend.seanho.com)
+
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # What are my
 # **weekends** for?
 
@@ -18,12 +18,12 @@
 + dose of 2hrs of **church**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 
-## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
-1. *Pretending* &rarr; **Protecting** <span class="ref">(v3-9a)</span>
-2. *Pride* &rarr; **Providence** <span class="ref">(v9b-12)</span>
-3. *Pleasure* &rarr; **Praise** <span class="ref">(v13-14)</span>
+## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
+1. *Pretending* &rarr; **Protecting** [(v3-9a)](# "ref")
+2. *Pride* &rarr; **Providence** [(v9b-12)](# "ref")
+3. *Pleasure* &rarr; **Praise** [(v13-14)](# "ref")
 
 >>>
 + call to **action**
@@ -31,9 +31,9 @@
   + view of **worship**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
+<!-- .slide: <%= bg("father_son_walk.jpg") %> -->
 
-<span class="ref">(2)</span>
+[(2)](# "ref")
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
 
@@ -45,20 +45,20 @@ and to the descendants of Jacob their **sins**.
   + 18-21 restless **wicked**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
 
 ## 1. Pretending &rarr; Protecting
 + *Don't:* Pursue **Appearance** of Humility
-  <span class="ref">(v2-5)</span>
+  [(v2-5)](# "ref")
 + *Do:* **Protect** the Oppressed
-  <span class="ref">(v6-7)</span>
+  [(v6-7)](# "ref")
 + *Promise:* **Answer** our Cry + **Protect**
-  <span class="ref">(v8-9)</span>
+  [(v8-9)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 
-<span class="ref">(2)</span>
+[(2)](# "ref")
 day after day they **seek me out**; <br/>
 they **seem eager** to know my ways, [...]
 
@@ -74,9 +74,9 @@ and seem eager for God to **come near** them.
   + be **holy**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NaWKMlp3tVs-bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-NaWKMlp3tVs-bible.jpg") %> -->
 
-<span class="ref">(5)</span>
+[(5)](# "ref")
 only a day for people <br/>
 to **humble themselves**?
 
@@ -91,9 +91,9 @@ and for lying in **sackcloth and ashes**?
 + e.g., devos at **camp**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
+<!-- .slide: <%= bg("fist.jpg") %> -->
 
-<span class="ref">(3)</span>
+[(3)](# "ref")
 You do **as you please** <br/>
 and **exploit** all your workers.
 
@@ -104,14 +104,14 @@ and in **striking each other** with wicked fists.
 + family argue **more** on wknd?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
 
 + *Don't:* Pursue Appearance of Humility
-  <span class="ref">(v2-5)</span>
+  [(v2-5)](# "ref")
 + *Do:* **Protect the Oppressed**
-  <span class="ref">(v6-7)</span>
+  [(v6-7)](# "ref")
 + *Promise:* Answer our Cry + Protect
-  <span class="ref">(v8-9)</span>
+  [(v8-9)](# "ref")
 
 >>>
 + OK so the **facade** of humility
@@ -119,9 +119,9 @@ and in **striking each other** with wicked fists.
 + So what **should** we do?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1290860-padlock.jpg" -->
+<!-- .slide: <%= bg("pixabay-1290860-padlock.jpg") %> -->
 
-<span class="ref">(6)</span>
+[(6)](# "ref")
 To loose the **chains of injustice** <br/>
 and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
@@ -135,9 +135,9 @@ and break every **yoke**?
 + **Addictions**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 
-<span class="ref">(7)</span>
+[(7)](# "ref")
 To **share your food** with the hungry <br/>
 and to provide the poor wanderer with **shelter** <br/>
 when you see the naked, to **clothe them**, <br/>
@@ -152,14 +152,14 @@ from your own **flesh and blood**?
   + **blessed** &Rarr; more to **give**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55la3cIsJKQ-hug_haiti.jpg" -->
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
 
 + *Don't:* Pursue Appearance of Humility
-  <span class="ref">(v2-5)</span>
+  [(v2-5)](# "ref")
 + *Do:* Protect the Oppressed
-  <span class="ref">(v6-7)</span>
+  [(v6-7)](# "ref")
 + *Promise:* **Answer our Cry + Protect**
-  <span class="ref">(v8-9)</span>
+  [(v8-9)](# "ref")
 
 >>>
 + **Action**, not **appearance**
@@ -167,9 +167,9 @@ from your own **flesh and blood**?
 + And God has a **promise**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pexels-16013-edson-light_road.jpg" -->
+<!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
 
-<span class="ref">(8)</span>
+[(8)](# "ref")
 then your righteousness will **go before** you, <br/>
 and the glory of the Lord <br/>
 will be your **rear guard**.
@@ -184,7 +184,7 @@ you will **cry for help**, and he will say: **Here am I**
   + God responds to **prayer**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 
 ## Do I care more about **appearing** humble
 ## than **protecting** <br/> the oppressed?
@@ -194,12 +194,12 @@ you will **cry for help**, and he will say: **Here am I**
 + Act of **faith** in God's protection
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 
-## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
-1. Pretending &rarr; Protecting <span class="ref">(v3-9a)</span>
-2. **Pride &rarr; Providence** <span class="ref">(v9b-12)</span>
-3. Pleasure &rarr; Praise <span class="ref">(v13-14)</span>
+## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
+1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
+2. **Pride &rarr; Providence** [(v9b-12)](# "ref")
+3. Pleasure &rarr; Praise [(v13-14)](# "ref")
 
 >>>
 + 2nd section echoes theme:
@@ -208,15 +208,15 @@ you will **cry for help**, and he will say: **Here am I**
   + **provide** for others
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 
 ## 2. Pride &rarr; Providence
 + *Don't:* Presume **Superiority**
-  <span class="ref">(v9b)</span>
+  [(v9b)](# "ref")
 + *Do:* **Provide** for the Needy
-  <span class="ref">(v10a)</span>
+  [(v10a)](# "ref")
 + *Promise:* **Satisfy** Needs + **Restore**
-  <span class="ref">(v10b-12)</span>
+  [(v10b-12)](# "ref")
 
 >>>
 + **neg**: heart attitude
@@ -225,9 +225,9 @@ you will **cry for help**, and he will say: **Here am I**
   + God blesses us
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
+<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
 
-<span class="ref">(9)</span>
+[(9)](# "ref")
 If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
 
@@ -240,9 +240,9 @@ with the **pointing finger** and **malicious talk**,
   + with **intent** to harm
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 
-<span class="ref">(10)</span>
+[(10)](# "ref")
 if you **spend yourselves** <br/>
 in behalf of the hungry <br/>
 and **satisfy the needs** of the oppressed,
@@ -257,9 +257,9 @@ and **satisfy the needs** of the oppressed,
 + God has 2-part **promise**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 
-<span class="ref">(11)</span>
+[(11)](# "ref")
 **satisfy your needs** in a sun-scorched land <br/>
 and will **strengthen** your frame.
 
@@ -275,9 +275,9 @@ like a **spring** whose waters never fail.
 + Even more, God gives us a **title**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-njM4it9erx4-peru_ruins.jpg" -->
+<!-- .slide: <%= bg("unsplash-njM4it9erx4-peru_ruins.jpg") %> -->
 
-<span class="ref">(12)</span>
+[(12)](# "ref")
 Your people will **rebuild** the ancient ruins <br/>
 and will **raise up** the age-old foundations;
 
@@ -291,7 +291,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 + sharing God's **grace**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 
 ## Do I care more about **justifying** myself
 ## than **providing** for <br/> the needy?
@@ -301,12 +301,12 @@ you will be called **Repairer** of Broken Walls, <br/>
 + act of **faith**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 
-## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
-1. Pretending &rarr; Protecting <span class="ref">(v3-9a)</span>
-2. Pride &rarr; Providence <span class="ref">(v9b-12)</span>
-3. **Pleasure &rarr; Praise** <span class="ref">(v13-14)</span>
+## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
+1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
+2. Pride &rarr; Providence [(v9b-12)](# "ref")
+3. **Pleasure &rarr; Praise** [(v13-14)](# "ref")
 
 >>>
 + first 2 sections: **anytime**
@@ -317,32 +317,32 @@ you will be called **Repairer** of Broken Walls, <br/>
   + **more** than just church! 
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> -->
 
 ## 3. Pleasure &rarr; Praise
 + *Don't:* Do as We **Please** on Sabbath
-  <span class="ref">(v13)</span>
+  [(v13)](# "ref")
 + *Do:* Consider Its **Joy** and **Gravity**
-  <span class="ref">(v13b)</span>
+  [(v13b)](# "ref")
 + *Promise:* Be Our **Joy** and **Triumph**
-  <span class="ref">(v14)</span>
+  [(v14)](# "ref")
 
 >>>
 + what are we supposed to do on the Sabbath? 
 + neg &rarr; pos &rarr; promise
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 
-<span class="ref">(13)</span>
+[(13)](# "ref")
 If you keep your **feet** <br/>
 from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DwTZwZYi9Ww-feet_lawn.jpg" -->
+<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 
-<span class="ref">(13)</span>
+[(13)](# "ref")
 and if you **honor** it <br/>
 by not going your **own way** <br/>
 and not doing **as you please** <br/>
@@ -359,9 +359,9 @@ or speaking **idle** words,
 + Don't **honour** self, but:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-K2SXdKPEhcg-feather.jpg" -->
+<!-- .slide: <%= bg("unsplash-K2SXdKPEhcg-feather.jpg") %> -->
 
-<span class="ref">(13)</span>
+[(13)](# "ref")
 if you call the Sabbath a **delight** <br/>
 and the Lord’s holy day **honorable**,
 
@@ -371,9 +371,9 @@ and the Lord’s holy day **honorable**,
 + Do: Consider its **joy** and **gravity**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn-cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> -->
 
-<span class="ref">(14)</span>
+[(14)](# "ref")
 Then you will **find your joy** in the Lord,
 
 and I will cause you to **ride in triumph** <br/>
@@ -387,9 +387,9 @@ on the heights of the land
   + not fleeting **addictions**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
+<!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 
-## Psalm 37:4-5 <span class="ref">(ESV)</span>
+## Psalm 37:4-5 [(ESV)](# "ref")
 **Delight** yourself in the LORD, <br/>
 and he will give you the **desires** of your heart.
 
@@ -403,18 +403,18 @@ and he will give you the **desires** of your heart.
 + commit, trust: obey
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 
 ## Do I care more about <br/> my own **plans**
 ## than declaring God's **glory**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 
-## <span class="ref">Isaiah 58:</span> <br/> Redeeming the Weekends
-1. Pretending &rarr; **Protecting** <span class="ref">(v3-9a)</span>
-2. Pride &rarr; **Providence** <span class="ref">(v9b-12)</span>
-3. Pleasure &rarr; **Praise** <span class="ref">(v13-14)</span>
+## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
+1. Pretending &rarr; **Protecting** [(v3-9a)](# "ref")
+2. Pride &rarr; **Providence** [(v9b-12)](# "ref")
+3. Pleasure &rarr; **Praise** [(v13-14)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="empty" -->
