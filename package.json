@@ -1,12 +1,11 @@
 {
-  "name": "@sermons/redeeming-weekends",
-  "repository": "sermons/redeeming-weekends",
+  "name": "@sermons/weekend",
+  "repository": "sermons/weekend",
   "description": "Is58, Redeeming the Weekends",
   "keywords": [
     "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "sermon",
+    "Isaiah"
   ],
   "version": "1.6.16",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
