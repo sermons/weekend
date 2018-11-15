@@ -137,7 +137,7 @@ and in **striking each other** with wicked fists.
   [(v8-9)](# "ref")
 
 >>>
-+ OK so the **facade** of humility
++ the **facade** of humility
   + only leads to **conflict**
 + So what **should** we do?
 
@@ -151,11 +151,15 @@ and break every **yoke**?
 [Isaiah 58:6 (NIV)](# "ref")
 
 >>>
-+ Justice: **God** defines
-+ e.g., human right to **internet**? 
-+ e.g., mom hides **phone**
-+ choose **sexual identity**?
-+ **Addictions**
++ Justice: as **defined** by God
+  + human **rights** come from Creator
++ **not** defined by **selfish** desires:
+  + right to have **internet** access? 
+  + mom hides **phone**: rights **violated**?
+  + choose own **sexual identity**?
++ break every **yoke**:
+  + chains of **addiction**
+  + **captive** to sin
 
 ---
 <!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
@@ -168,7 +172,7 @@ from your own **flesh and blood**?
 [Isaiah 58:7 (NIV)](# "ref")
 
 >>>
-+ Not that we can **solve** poverty
++ Not that we can **solve** poverty, but
 + Selfishness affects our **heart**
   + **Sharing** God's grace
 + **ἁπλότης**: simplicity + generosity
