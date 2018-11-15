@@ -32,10 +32,10 @@
 
 ---
 <!-- .slide: <%= bg("father_son_walk.jpg") %> -->
-
-[(2)](# "ref")
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
+
+[Isaiah 58:2 (NIV)](# "ref")
 
 >>>
 + not beyond **hope**
@@ -57,13 +57,13 @@ and to the descendants of Jacob their **sins**.
 
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
-
-[(2)](# "ref")
 day after day they **seek me out**; <br/>
 they **seem eager** to know my ways, [...]
 
 They ask me for **just decisions** <br/>
 and seem eager for God to **come near** them.
+
+[Isaiah 58:2 (NIV)](# "ref")
 
 >>>
 + **good** guys!
@@ -75,13 +75,13 @@ and seem eager for God to **come near** them.
 
 ---
 <!-- .slide: <%= bg("unsplash-NaWKMlp3tVs-bible.jpg") %> -->
-
-[(5)](# "ref")
 only a day for people <br/>
 to **humble themselves**?
 
 Is it only for **bowing one’s head** like a reed <br/>
 and for lying in **sackcloth and ashes**?
+
+[Isaiah 58:5 (NIV)](# "ref")
 
 >>>
 + **appearance** of humility
@@ -92,13 +92,13 @@ and for lying in **sackcloth and ashes**?
 
 ---
 <!-- .slide: <%= bg("fist.jpg") %> -->
-
-[(3)](# "ref")
 You do **as you please** <br/>
 and **exploit** all your workers.
 
 Your fasting ends in **quarreling and strife**, <br/>
 and in **striking each other** with wicked fists.
+
+[Isaiah 58:3 (NIV)](# "ref")
 
 >>>
 + family argue **more** on wknd?
@@ -120,12 +120,12 @@ and in **striking each other** with wicked fists.
 
 ---
 <!-- .slide: <%= bg("pixabay-1290860-padlock.jpg") %> -->
-
-[(6)](# "ref")
 To loose the **chains of injustice** <br/>
 and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
 and break every **yoke**?
+
+[Isaiah 58:6 (NIV)](# "ref")
 
 >>>
 + Justice: **God** defines
@@ -136,13 +136,13 @@ and break every **yoke**?
 
 ---
 <!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
-
-[(7)](# "ref")
 To **share your food** with the hungry <br/>
 and to provide the poor wanderer with **shelter** <br/>
 when you see the naked, to **clothe them**, <br/>
 and not to turn away <br/>
 from your own **flesh and blood**?
+
+[Isaiah 58:7 (NIV)](# "ref")
 
 >>>
 + Not that we can **solve** poverty
@@ -168,14 +168,14 @@ from your own **flesh and blood**?
 
 ---
 <!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
-
-[(8)](# "ref")
 then your righteousness will **go before** you, <br/>
 and the glory of the Lord <br/>
 will be your **rear guard**.
 
 Then you will **call**, and the Lord will **answer**; <br/>
 you will **cry for help**, and he will say: **Here am I**
+
+[Isaiah 58:8 (NIV)](# "ref")
 
 >>>
 + We **protect** the oppressed &rArr;
@@ -226,10 +226,10 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
-
-[(9)](# "ref")
 If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
+
+[Isaiah 58:9 (NIV)](# "ref")
 
 >>>
 + Don't: Presume **Superiority**
@@ -241,11 +241,11 @@ with the **pointing finger** and **malicious talk**,
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
-
-[(10)](# "ref")
 if you **spend yourselves** <br/>
 in behalf of the hungry <br/>
 and **satisfy the needs** of the oppressed,
+
+[Isaiah 58:10 (NIV)](# "ref")
 
 >>>
 + Do: **Provide** for the Needy
@@ -258,13 +258,13 @@ and **satisfy the needs** of the oppressed,
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
-
-[(11)](# "ref")
 **satisfy your needs** in a sun-scorched land <br/>
 and will **strengthen** your frame.
 
 You will be like a **well-watered garden**, <br/>
 like a **spring** whose waters never fail.
+
+[Isaiah 58:11 (NIV)](# "ref")
 
 >>>
 + Promise (1): **Satisfy** Your Needs
@@ -276,13 +276,13 @@ like a **spring** whose waters never fail.
 
 ---
 <!-- .slide: <%= bg("unsplash-njM4it9erx4-peru_ruins.jpg") %> -->
-
-[(12)](# "ref")
 Your people will **rebuild** the ancient ruins <br/>
 and will **raise up** the age-old foundations;
 
 you will be called **Repairer** of Broken Walls, <br/>
 **Restorer** of Streets with Dwellings.
+
+[Isaiah 58:12 (NIV)](# "ref")
 
 >>>
 + God's Promise (2): **Restore** You
@@ -333,20 +333,20 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
-
-[(13)](# "ref")
 If you keep your **feet** <br/>
 from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
+[Isaiah 58:13 (NIV)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
-
-[(13)](# "ref")
 and if you **honor** it <br/>
 by not going your **own way** <br/>
 and not doing **as you please** <br/>
 or speaking **idle** words,
+
+[Isaiah 58:13 (NIV)](# "ref")
 
 >>>
 + Don't: Do as you **Please**
@@ -360,10 +360,10 @@ or speaking **idle** words,
 
 ---
 <!-- .slide: <%= bg("unsplash-K2SXdKPEhcg-feather.jpg") %> -->
-
-[(13)](# "ref")
 if you call the Sabbath a **delight** <br/>
 and the Lord’s holy day **honorable**,
+
+[Isaiah 58:13 (NIV)](# "ref")
 
 >>>
 + honour God **first**, and
@@ -372,12 +372,12 @@ and the Lord’s holy day **honorable**,
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> -->
-
-[(14)](# "ref")
 Then you will **find your joy** in the Lord,
 
 and I will cause you to **ride in triumph** <br/>
 on the heights of the land
+
+[Isaiah 58:14 (NIV)](# "ref")
 
 >>>
 + God's Promise: Be Your **joy** and **triumph**
@@ -388,13 +388,13 @@ on the heights of the land
 
 ---
 <!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
-
-## Psalm 37:4-5 [(ESV)](# "ref")
 **Delight** yourself in the LORD, <br/>
 and he will give you the **desires** of your heart.
 
 **Commit** your way to the LORD; <br/>
 **trust** in him, and he will act.
+
+[Psalm 37:4-5 (ESV)](# "ref")
 
 >>>
 + joy: in the Lord Himself
