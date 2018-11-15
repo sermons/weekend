@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="title" -->
 # Redeeming <br/> the Weekends
 ## Isaiah 58
 
@@ -18,7 +18,7 @@
 + dose of 2hrs of **church**
 
 ---
-<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="outline" class="outline" -->
 
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
 1. *Pretending* &rarr; **Protecting** [(v3-9a)](# "ref")
@@ -45,7 +45,7 @@ and to the descendants of Jacob their **sins**.
   + 18-21 restless **wicked**
 
 ---
-<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 
 ## 1. Pretending &rarr; Protecting
 + *Don't:* Pursue **Appearance** of Humility
@@ -104,7 +104,7 @@ and in **striking each other** with wicked fists.
 + family argue **more** on wknd?
 
 ---
-<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 
 + *Don't:* Pursue Appearance of Humility
   [(v2-5)](# "ref")
@@ -152,7 +152,7 @@ from your own **flesh and blood**?
   + **blessed** &Rarr; more to **give**
 
 ---
-<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 
 + *Don't:* Pursue Appearance of Humility
   [(v2-5)](# "ref")
@@ -194,7 +194,7 @@ you will **cry for help**, and he will say: **Here am I**
 + Act of **faith** in God's protection
 
 ---
-<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
 
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
 1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
@@ -208,7 +208,7 @@ you will **cry for help**, and he will say: **Here am I**
   + **provide** for others
 
 ---
-<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> class="outline" -->
 
 ## 2. Pride &rarr; Providence
 + *Don't:* Presume **Superiority**
@@ -301,7 +301,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 + act of **faith**
 
 ---
-<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
 
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
 1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
@@ -317,7 +317,7 @@ you will be called **Repairer** of Broken Walls, <br/>
   + **more** than just church! 
 
 ---
-<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> class="outline" -->
 
 ## 3. Pleasure &rarr; Praise
 + *Don't:* Do as We **Please** on Sabbath
@@ -409,7 +409,7 @@ and he will give you the **desires** of your heart.
 ## than declaring God's **glory**?
 
 ---
-<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
 
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
 1. Pretending &rarr; **Protecting** [(v3-9a)](# "ref")
