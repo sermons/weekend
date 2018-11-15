@@ -12,11 +12,14 @@
 # **weekends** for?
 
 >>>
-+ 6 days work / 1 day rest
-  + &rArr; for what purpose?
-+ demands of **family**
-+ "**me**" time
-+ dose of 2hrs of **church**
++ sometimes weekends **more** busy than weekdays!
+  + catch up on **work**
+  + demands of **family**
+  + "**me**" time
+  + dose of 2hrs of **church**
++ God gave us the **pattern**: 
+  + 6 days **work** / 1 day **rest**
++ what is the **purpose** of the weekend?
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="outline" class="outline" -->
@@ -28,22 +31,32 @@
 
 >>>
 + call to **action**
-+ **change** how spend weekend
-  + view of **worship**
++ **change** how we spend weekend
++ and change how we think of **worship**
++ 3 **sections** in ch58, each section consists of:
+  + what **not** to do
+  + what we **ought** to do
+  + God's **promise** if we obey
++ **opening** sounds pretty **harsh**:
 
 ---
 <!-- .slide: <%= bg("father_son_walk.jpg") %> -->
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
 
-[Isaiah 58:2 (NIV)](# "ref")
+[Isaiah 58:1 (NIV)](# "ref")
 
 >>>
-+ not beyond **hope**
-+ show sin &rArr; **change**
-  + as **father** to son
-+ 57:15 **contrite**, vs
-  + 18-21 restless **wicked**
++ actually, this chapter is a **warning**:
++ implies we are not beyond **hope**
++ **show** us our sin &rArr; call to **change**
+  + as loving **Father** to children
++ preceding **ch57** draws a **contrast**:
+  + v15 **contrite** + lowly of spirit
+  + v18-21 restless **wicked**
++ so read this passage w/**humility** to change
+  + and not **stubborn** pride
++ The **first** section:
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
@@ -56,6 +69,10 @@ and to the descendants of Jacob their **sins**.
 + *Promise:* **Answer** our Cry + **Protect**
   [(v8-9)](# "ref")
 
+>>>
++ we are adept at **fooling** ourselves
++ we **seek** God but unwilling to **obey** Him
+
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 day after day they **seek me out**; <br/>
@@ -67,12 +84,14 @@ and seem eager for God to **come near** them.
 [Isaiah 58:2 (NIV)](# "ref")
 
 >>>
-+ **good** guys!
-+ **churchgoers**, believe selves good Christians
-+ **seek** out God's will
-+ **fasting**: voluntary sacrifice
-  + to **worship** God
++ this passage is speaking to the **good** guys!
+  + not **atheists**, Buddhists, etc.
++ **churchgoers** who believe selves good Christians
+  + **seek** out God's will
++ passage mentions **fasting**: voluntary **sacrifice**
+  + to **worship** God and
   + be **holy**
++ but these only have outward **appearance** of humility:
 
 ---
 <!-- .slide: <%= bg("unsplash-NaWKMlp3tVs-bible.jpg") %> -->
@@ -85,10 +104,11 @@ and for lying in **sackcloth and ashes**?
 [Isaiah 58:5 (NIV)](# "ref")
 
 >>>
-+ **appearance** of humility
-+ self-**abasement**
-  + focus: **own** sacrifice+suffering
-  + &rArr; **penance** for sins
++ we as **Chinese** are really good at
+  + **pretending** to be noble / humble
++ self-**abasement** focuses on 
+  + **own** sacrifice / suffering
+  + e.g., paying **penance** for sins
 + e.g., devos at **camp**
 
 ---
@@ -102,7 +122,9 @@ and in **striking each other** with wicked fists.
 [Isaiah 58:3 (NIV)](# "ref")
 
 >>>
-+ family argue **more** on wknd?
++ because the service is not from the **heart**
++ store up **bitterness** + resentment
++ e.g., family argues **more** on wknd?
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
