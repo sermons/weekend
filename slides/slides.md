@@ -1,5 +1,7 @@
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="title" -->
 # Redeeming <br/> the Weekends
+# 將週末贖回
+<!-- .element: class="zh" -->
 ## Isaiah 58
 
 >>>
