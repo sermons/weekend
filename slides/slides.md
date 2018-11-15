@@ -1,7 +1,6 @@
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="title" -->
 # Redeeming <br/> the Weekends
-# 將週末贖回
-<!-- .element: class="zh" -->
+# <span class="zh">將週末贖回</span>
 ## Isaiah 58
 
 >>>
@@ -319,7 +318,7 @@ you will be called **Repairer** of Broken Walls, <br/>
   + **more** than just church! 
 
 ---
-<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> class="outline" -->
 
 ## 3. Pleasure &rarr; Praise
 + *Don't:* Do as We **Please** on Sabbath
@@ -373,7 +372,7 @@ and the Lord’s holy day **honorable**,
 + Do: Consider its **joy** and **gravity**
 
 ---
-<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 Then you will **find your joy** in the Lord,
 
 and I will cause you to **ride in triumph** <br/>
