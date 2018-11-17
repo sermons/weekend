@@ -8,8 +8,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What are my
-# **weekends** for?
+# What are my **weekends** for?
+# <span class="zh">我過週末的目的是什麼?</span>
 
 >>>
 + sometimes weekends **more** busy than weekdays!
