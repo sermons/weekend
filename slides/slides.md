@@ -433,7 +433,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> class="outline" -->
-## 3. Pleasure &rarr; Praise <br> <span class="zh">享樂 &rarr; 讚美</span>
+## 3. Pleasure &rarr; Praise <!-- <br> <span class="zh">享樂 &rarr; 讚美</span> -->
 + *Don't:* Do as We **Please** on Sabbath<br>
   <span class="zh">*不要:* 随心所欲過安息日</span>
   [(v13)](# "ref")
