@@ -1,15 +1,15 @@
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="title" -->
 # Redeeming <br/> the Weekends
-# <span class="zh">將週末贖回</span>
+# <span class="zh">恢復週末</span>
 ## Isaiah 58
 
 >>>
-
++ or: 將週末贖回
 
 ---
 <!-- .slide: data-background="white" -->
 # What are my **weekends** for?
-# <span class="zh">我過週末的目的是什麼?</span>
+# <span class="zh">我過**週末**的<br>目的是什麼?</span>
 
 >>>
 + sometimes weekends **more** busy than weekdays!
@@ -23,13 +23,13 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="outline" class="outline" -->
-## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
-1. *Pretending* &rarr; **Protecting** <br>
-  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
-2. *Pride* &rarr; **Providence** <br>
-  <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
-3. *Pleasure* &rarr; **Praise** 
-  <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
+## Redeeming the Weekends <br> <span class="zh">恢復週末</span>
+1. Pretending &rarr; **Protecting** <br>
+  <span class="zh">假裝 &rarr; *保護*</span> [(v3-9a)](# "ref")
+2. Pride &rarr; **Providence** <br>
+  <span class="zh">驕傲 &rarr; *神的眷顧*</span> [(v9b-12)](# "ref")
+3. Pleasure &rarr; **Praise** <br>
+  <span class="zh">享樂 &rarr; *讚美*</span> [(v13-14)](# "ref")
 
 >>>
 + call to **action**
@@ -67,16 +67,15 @@ and to the descendants of Jacob their **sins**.
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-## 1. Pretending &rarr; Protecting<br>
-  <span class="zh">假裝 &rarr; 保護</span> 
+## 1. Pretending &rarr; Protecting<br> <span class="zh">假裝 &rarr; 保護</span> 
 + *Don't:* Pursue **Appearance** of Humility<br>
-  不要追求表面的謙卑和刻苦己心
+  <span class="zh">*不要:* 追求表面的謙卑和刻苦己心</span>
   [(v2-5)](# "ref")
 + *Do:* **Protect** the Oppressed <br>
-  要保護被欺壓困苦的人
+  <span class="zh">*要:* 保護被欺壓困苦的人</span>
   [(v6-7)](# "ref")
 + *Promise:* **Answer** our Cry + **Protect** <br>
-  神的應許：回應我們的呼求，保護我們
+  <span class="zh">*神的應許：* 回應我們的呼求，保護我們</span>
   [(v8-9)](# "ref")
 
 >>>
@@ -159,16 +158,15 @@ and in **striking each other** with wicked fists.
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-## 1. Pretending &rarr; Protecting<br>
-  <span class="zh">假裝 &rarr; 保護</span> 
+## 1. Pretending &rarr; Protecting<br> <span class="zh">假裝 &rarr; 保護</span> 
 + Don't: Pursue Appearance of Humility<br>
-  不要追求表面的謙卑和刻苦己心
+  <span class="zh">不要: 追求表面的謙卑和刻苦己心</span>
   [(v2-5)](# "ref")
-+ Do: **Protect the Oppressed** <br>
-  **要保護被欺壓困苦的人**
++ *Do:* **Protect the Oppressed** <br>
+  <span class="zh">*要:* **保護被欺壓困苦的人**</span>
   [(v6-7)](# "ref")
 + Promise: Answer our Cry + Protect <br>
-  神的應許：回應我們的呼求，保護我們
+  <span class="zh">神的應許： 回應我們的呼求，保護我們</span>
   [(v8-9)](# "ref")
 
 >>>
@@ -229,16 +227,15 @@ from your own **flesh and blood**?
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-## 1. Pretending &rarr; Protecting<br>
-  <span class="zh">假裝 &rarr; 保護</span> 
+## 1. Pretending &rarr; Protecting<br> <span class="zh">假裝 &rarr; 保護</span> 
 + Don't: Pursue Appearance of Humility<br>
-  不要追求表面的謙卑和刻苦己心
+  <span class="zh">不要: 追求表面的謙卑和刻苦己心</span>
   [(v2-5)](# "ref")
 + Do: Protect the Oppressed <br>
-  要保護被欺壓困苦的人
+  <span class="zh">要: 保護被欺壓困苦的人</span>
   [(v6-7)](# "ref")
-+ **Promise: Answer our Cry + Protect** <br>
-  **神的應許：回應我們的呼求，保護我們**
++ *Promise:* **Answer our Cry + Protect** <br>
+  <span class="zh">*神的應許：* **回應我們的呼求，保護我們**</span>
   [(v8-9)](# "ref")
 
 >>>
@@ -274,7 +271,7 @@ you will **cry for help**, and he will say: **Here am I**
 ---
 <!-- .slide: data-background="white" -->
 ## Do I care more about **appearing** humble than **protecting** the oppressed?
-## <span class="zh">我比較在乎表面上看似謙卑, 或是真正去保護受欺壓困苦的人?</span>
+## <span class="zh">我比較在乎表面上看似謙卑, <br>或是真正去保護<br>受欺壓困苦的人?</span>
 
 >>>
 + Pretending &rarr; Protecting
@@ -282,7 +279,7 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
+## Redeeming the Weekends <br> <span class="zh">恢復週末</span>
 1. Pretending &rarr; Protecting <br>
   <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
 2. **Pride &rarr; Providence** <br>
@@ -298,16 +295,15 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> class="outline" -->
-## 2. Pride &rarr; Providence <br>
-  <span class="zh">驕傲 &rarr; 神的眷顧</span>
+## 2. Pride &rarr; Providence <br> <span class="zh">驕傲 &rarr; 神的眷顧</span>
 + *Don't:* Presume **Superiority** <br>
-  不要自以為優越
+  <span class="zh">*不要:* 自以為優越</span>
   [(v9b)](# "ref")
 + *Do:* **Provide** for the Needy <br>
-  要供應給有需要的人
+  <span class="zh">*要:* 供應給有需要的人</span>
   [(v10a)](# "ref")
 + *Promise:* **Satisfy** Needs + **Restore** <br>
-  神的應許: 滿足我們的需要, 恢復我們
+  <span class="zh">*神的應許:* 滿足我們的需要, 恢復我們</span>
   [(v10b-12)](# "ref")
 
 >>>
@@ -419,7 +415,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
+## Redeeming the Weekends <br> <span class="zh">恢復週末</span>
 1. Pretending &rarr; Protecting <br>
   <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
 2. Pride &rarr; Providence <br>
@@ -437,16 +433,15 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> class="outline" -->
-## 3. Pleasure &rarr; Praise <br>
-  <span class="zh">享樂 &rarr; 讚美</span>
+## 3. Pleasure &rarr; Praise <br> <span class="zh">享樂 &rarr; 讚美</span>
 + *Don't:* Do as We **Please** on Sabbath<br>
-  <span class="zh">不要随心所欲過安息日</span>
+  <span class="zh">*不要:* 随心所欲過安息日</span>
   [(v13)](# "ref")
 + *Do:* Consider Its **Joy** and **Gravity**<br>
   <span class="zh">而是讓我們思考從它而來的喜樂和重要</span>
   [(v13b)](# "ref")
 + *Promise:* Be Our **Joy** and **Triumph**<br>
-  <span class="zh">神的應許是，祂必成為我們的喜樂和得勝</span>
+  <span class="zh">*神的應許是，* 祂必成為我們的喜樂和得勝</span>
   [(v14)](# "ref")
 
 >>>
