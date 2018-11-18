@@ -406,7 +406,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I care more about **justifying** myself than **providing** for the needy?
+## Do I care more about <br>**justifying** myself than **providing** for the needy?
 ## <span class="zh">我比較在乎捍衛自己權益, <br>或是供應給有需要的人?</span>
 
 >>>
@@ -438,10 +438,10 @@ you will be called **Repairer** of Broken Walls, <br/>
   <span class="zh">*不要:* 随心所欲過安息日</span>
   [(v13)](# "ref")
 + *Do:* Consider Its **Joy** and **Gravity**<br>
-  <span class="zh">而是讓我們思考從它而來的喜樂和重要</span>
+  <span class="zh">而是讓我們思考<br>從它而來的喜樂和重要</span>
   [(v13b)](# "ref")
 + *Promise:* Be Our **Joy** and **Triumph**<br>
-  <span class="zh">*神的應許是，* 祂必成為我們的喜樂和得勝</span>
+  <span class="zh">*神的應許是，* 祂必成為我們的<br>喜樂和得勝</span>
   [(v14)](# "ref")
 
 >>>
@@ -566,7 +566,7 @@ and he will give you the **desires** of your heart.
   <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
 2. *Pride* &rarr; **Providence** <br>
   <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
-3. *Pleasure* &rarr; **Praise** 
+3. *Pleasure* &rarr; **Praise** <br>
   <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
 
 ---
