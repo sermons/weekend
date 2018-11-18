@@ -23,11 +23,13 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="outline" class="outline" -->
-
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
-1. *Pretending* &rarr; **Protecting** [(v3-9a)](# "ref")
-2. *Pride* &rarr; **Providence** [(v9b-12)](# "ref")
-3. *Pleasure* &rarr; **Praise** [(v13-14)](# "ref")
+1. *Pretending* &rarr; **Protecting** <br>
+  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
+2. *Pride* &rarr; **Providence** <br>
+  <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
+3. *Pleasure* &rarr; **Praise** 
+  <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
 
 >>>
 + call to **action**
@@ -44,7 +46,12 @@
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
 
-[Isaiah 58:1 (NIV)](# "ref")
+<div class="zh">
+向 我 百 姓 說 明 他 們 的 過 犯 ；<br>
+向 雅 各 家 說 明 他 們 的 罪 惡 。
+</div>
+
+[Isaiah 以賽亞書 58:1 (NIV/CUV)](# "ref")
 
 >>>
 + actually, this chapter is a **warning**:
@@ -60,13 +67,16 @@ and to the descendants of Jacob their **sins**.
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-
-## 1. Pretending &rarr; Protecting
-+ *Don't:* Pursue **Appearance** of Humility
+## 1. Pretending &rarr; Protecting<br>
+  <span class="zh">假裝 &rarr; 保護</span> 
++ *Don't:* Pursue **Appearance** of Humility<br>
+  不要追求表面的謙卑和刻苦己心
   [(v2-5)](# "ref")
-+ *Do:* **Protect** the Oppressed
++ *Do:* **Protect** the Oppressed <br>
+  要保護被欺壓困苦的人
   [(v6-7)](# "ref")
-+ *Promise:* **Answer** our Cry + **Protect**
++ *Promise:* **Answer** our Cry + **Protect** <br>
+  神的應許：回應我們的呼求，保護我們
   [(v8-9)](# "ref")
 
 >>>
@@ -81,7 +91,12 @@ they **seem eager** to know my ways, [...]
 They ask me for **just decisions** <br/>
 and seem eager for God to **come near** them.
 
-[Isaiah 58:2 (NIV)](# "ref")
+<div class="zh">
+他 們 天 天 尋 求 我 ， 樂 意 明 白 我 的 道 ...<br>
+向 我 求 問 公 義 的 判 語 ， 喜 悅 親 近 神 。
+</div>
+
+[Isaiah 以賽亞書 58:2 (NIV/CUV)](# "ref")
 
 >>>
 + this passage is speaking to the **good** guys!
@@ -101,7 +116,14 @@ to **humble themselves**?
 Is it only for **bowing one’s head** like a reed <br/>
 and for lying in **sackcloth and ashes**?
 
-[Isaiah 58:5 (NIV)](# "ref")
+<div class="zh">
+這 樣 禁 食 豈 是 我 所 揀 選 、 <br>
+使 人 刻 苦 己 心 的 日 子 麼 ？ <br>
+豈 是 叫 人 垂 頭 像 葦 子 ， <br>
+用 麻 布 和 爐 灰 鋪 在 他 以 下 麼 ？ 
+</div>
+
+[Isaiah 以賽亞書 58:5 (NIV/CUV)](# "ref")
 
 >>>
 + we as **Chinese** are really good at
@@ -116,10 +138,19 @@ and for lying in **sackcloth and ashes**?
 You do **as you please** <br/>
 and **exploit** all your workers.
 
+[4](# "ref")
 Your fasting ends in **quarreling and strife**, <br/>
 and in **striking each other** with wicked fists.
 
-[Isaiah 58:3 (NIV)](# "ref")
+<div class="zh">
+你 們 禁 食 的 日 子 仍 求 利 益 ， <br>
+勒 逼 人 為 你 們 做 苦 工 。<br>
+[4](# "ref")
+你 們 禁 食 ， 卻 互 相 爭 競 ， <br>
+以 凶 惡 的 拳 頭 打 人 。
+</div>
+
+[Isaiah 以賽亞書 58:3-4 (NIV/CUV)](# "ref")
 
 >>>
 + because the service is not from the **heart**
@@ -128,12 +159,16 @@ and in **striking each other** with wicked fists.
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-
-+ *Don't:* Pursue Appearance of Humility
+## 1. Pretending &rarr; Protecting<br>
+  <span class="zh">假裝 &rarr; 保護</span> 
++ Don't: Pursue Appearance of Humility<br>
+  不要追求表面的謙卑和刻苦己心
   [(v2-5)](# "ref")
-+ *Do:* **Protect the Oppressed**
++ Do: **Protect the Oppressed** <br>
+  **要保護被欺壓困苦的人**
   [(v6-7)](# "ref")
-+ *Promise:* Answer our Cry + Protect
++ Promise: Answer our Cry + Protect <br>
+  神的應許：回應我們的呼求，保護我們
   [(v8-9)](# "ref")
 
 >>>
@@ -148,7 +183,11 @@ and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
 and break every **yoke**?
 
-[Isaiah 58:6 (NIV)](# "ref")
+<div class="zh">
+
+</div>
+
+[Isaiah 以賽亞書 58:6 (NIV/CUV)](# "ref")
 
 >>>
 + Justice: as **defined** by God
@@ -222,11 +261,13 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
-1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
-2. **Pride &rarr; Providence** [(v9b-12)](# "ref")
-3. Pleasure &rarr; Praise [(v13-14)](# "ref")
+1. Pretending &rarr; Protecting <br>
+  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
+2. **Pride &rarr; Providence** <br>
+  <span class="zh">**驕傲 &rarr; 神的眷顧**</span> [(v9b-12)](# "ref")
+3. Pleasure &rarr; Praise <br>
+  <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
 
 >>>
 + 2nd section echoes theme:
@@ -329,11 +370,13 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
-1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
-2. Pride &rarr; Providence [(v9b-12)](# "ref")
-3. **Pleasure &rarr; Praise** [(v13-14)](# "ref")
+1. Pretending &rarr; Protecting <br>
+  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
+2. Pride &rarr; Providence <br>
+  <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
+3. **Pleasure &rarr; Praise** <br>
+  <span class="zh">**享樂 &rarr; 讚美**</span> [(v13-14)](# "ref")
 
 >>>
 + first 2 sections: **anytime**
@@ -396,6 +439,12 @@ and the Lord’s holy day **honorable**,
 + honour God **first**, and
   + He will **exalt** you
 + Do: Consider its **joy** and **gravity**
++ **delight**: lightweight, happy, joyful
+  + something to **look forward** to 
+  + not as an **obligation**
++ **honorable**: heavy, weighty, important
+  + a **priority**
+  + of greater **value** than other demands on time
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
