@@ -410,9 +410,8 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-
-## Do I care more about **justifying** myself
-## than **providing** for <br/> the needy?
+## Do I care more about **justifying** myself than **providing** for the needy?
+## <span class="zh">我比較在乎捍衛自己權益, 或是供應給有需要的人?</span>
 
 >>>
 + **Trust** in God's providence
@@ -460,7 +459,12 @@ If you keep your **feet** <br/>
 from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
-[Isaiah 58:13 (NIV)](# "ref")
+<div class="zh">
+你 若 在 安 息 日 掉 轉 你 的 腳 步 ， <br>
+在 我 聖 日 不 以 操 作 為 喜 樂 
+</div>
+
+[Isaiah 以賽亞書 58:13 (NIV/CUV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
@@ -469,7 +473,12 @@ by not going your **own way** <br/>
 and not doing **as you please** <br/>
 or speaking **idle** words,
 
-[Isaiah 58:13 (NIV)](# "ref")
+<div class="zh">
+而 且 尊 敬 這 日 ， 不 辦 自 己 的 私 事 ， <br>
+不 隨 自 己 的 私 意 ， 不 說 自 己 的 私 話
+</div>
+
+[Isaiah 以賽亞書 58:13 (NIV/CUV)](# "ref")
 
 >>>
 + Don't: Do as you **Please**
@@ -486,7 +495,12 @@ or speaking **idle** words,
 if you call the Sabbath a **delight** <br/>
 and the Lord’s holy day **honorable**,
 
-[Isaiah 58:13 (NIV)](# "ref")
+<div class="zh">
+稱 安 息 日 為 可 喜 樂 的 ， <br>
+稱 耶 和 華 的 聖 日 為 可 尊 重 的 ；
+</div>
+
+[Isaiah 以賽亞書 58:13 (NIV/CUV)](# "ref")
 
 >>>
 + honour God **first**, and
@@ -506,7 +520,12 @@ Then you will **find your joy** in the Lord,
 and I will cause you to **ride in triumph** <br/>
 on the heights of the land
 
-[Isaiah 58:14 (NIV)](# "ref")
+<div class="zh">
+你 就 以 耶 和 華 為 樂 。 <br>
+耶 和 華 要 使 你 乘 駕 地 的 高 處 
+</div>
+
+[Isaiah 以賽亞書 58:14 (NIV/CUV)](# "ref")
 
 >>>
 + God's Promise: Be Your **joy** and **triumph**
@@ -520,10 +539,19 @@ on the heights of the land
 **Delight** yourself in the LORD, <br/>
 and he will give you the **desires** of your heart.
 
+[5](# "ref")
 **Commit** your way to the LORD; <br/>
 **trust** in him, and he will act.
 
-[Psalm 37:4-5 (ESV)](# "ref")
+<div class="zh">
+又 要 以 耶 和 華 為 樂 ， <br>
+他 就 將 你 心 裡 所 求 的 賜 給 你 。<br>
+[5](# "ref")
+當 將 你 的 事 交 託 耶 和 華 ， <br>
+並 倚 靠 他 ， 他 就 必 成 全 。
+</div>
+
+[Psalm 詩篇 37:4-5 (ESV/CUV)](# "ref")
 
 >>>
 + joy: in the Lord Himself
@@ -533,17 +561,18 @@ and he will give you the **desires** of your heart.
 
 ---
 <!-- .slide: data-background="white" -->
-
-## Do I care more about <br/> my own **plans**
-## than declaring God's **glory**?
+## Do I care more about my own **plans** than declaring God's **glory**?
+## <span class="zh"> 我比較在乎我自己的計劃， 還是傳揚祂的榮耀?</span>
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-
 ## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
-1. Pretending &rarr; **Protecting** [(v3-9a)](# "ref")
-2. Pride &rarr; **Providence** [(v9b-12)](# "ref")
-3. Pleasure &rarr; **Praise** [(v13-14)](# "ref")
+1. *Pretending* &rarr; **Protecting** <br>
+  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
+2. *Pride* &rarr; **Providence** <br>
+  <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
+3. *Pleasure* &rarr; **Praise** 
+  <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="empty" -->
