@@ -75,7 +75,7 @@ and to the descendants of Jacob their **sins**.
   <span class="zh">*要:* 保護被欺壓困苦的人</span>
   [(v6-7)](# "ref")
 + *Promise:* **Answer** our Cry + **Protect** <br>
-  <span class="zh">*神的應許：* 回應我們的呼求，保護我們</span>
+  <span class="zh">*神的應許：* 回應我們的呼求，<br>保護我們</span>
   [(v8-9)](# "ref")
 
 >>>
@@ -166,7 +166,7 @@ and in **striking each other** with wicked fists.
   <span class="zh">*要:* **保護被欺壓困苦的人**</span>
   [(v6-7)](# "ref")
 + Promise: Answer our Cry + Protect <br>
-  <span class="zh">神的應許： 回應我們的呼求，保護我們</span>
+  <span class="zh">神的應許： 回應我們的呼求，<br>保護我們</span>
   [(v8-9)](# "ref")
 
 >>>
@@ -235,7 +235,7 @@ from your own **flesh and blood**?
   <span class="zh">要: 保護被欺壓困苦的人</span>
   [(v6-7)](# "ref")
 + *Promise:* **Answer our Cry + Protect** <br>
-  <span class="zh">*神的應許：* **回應我們的呼求，保護我們**</span>
+  <span class="zh">*神的應許：* **回應我們的呼求，<br>保護我們**</span>
   [(v8-9)](# "ref")
 
 >>>
