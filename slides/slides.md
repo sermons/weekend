@@ -407,7 +407,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 ---
 <!-- .slide: data-background="white" -->
 ## Do I care more about **justifying** myself than **providing** for the needy?
-## <span class="zh">我比較在乎捍衛自己權益, 或是供應給有需要的人?</span>
+## <span class="zh">我比較在乎捍衛自己權益, <br>或是供應給有需要的人?</span>
 
 >>>
 + **Trust** in God's providence
@@ -557,7 +557,7 @@ and he will give you the **desires** of your heart.
 ---
 <!-- .slide: data-background="white" -->
 ## Do I care more about my own **plans** than declaring God's **glory**?
-## <span class="zh"> 我比較在乎我自己的計劃， 還是傳揚祂的榮耀?</span>
+## <span class="zh"> 我比較在乎我自己的計劃， <br> 還是傳揚祂的榮耀?</span>
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
