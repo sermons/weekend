@@ -54,14 +54,14 @@ and to the descendants of Jacob their **sins**.
 [Isaiah 以賽亞書 58:1 (NIV/CUV)](# "ref")
 
 >>>
-+ actually, this chapter is a **warning**:
-+ implies we are not beyond **hope**
++ but actually is a **warning**:
+  + we're not beyond **hope**
 + **show** us our sin &rArr; call to **change**
   + as loving **Father** to children
 + preceding **ch57** draws a **contrast**:
   + v15 **contrite** + lowly of spirit
   + v18-21 restless **wicked**
-+ so read this passage w/**humility** to change
++ so read w/**humility** to change
   + and not **stubborn** pride
 + The **first** section:
 
@@ -81,6 +81,12 @@ and to the descendants of Jacob their **sins**.
 >>>
 + we are adept at **fooling** ourselves
 + we **seek** God but unwilling to **obey** Him
++ each section has
++ the **negative**: wanting to appear humble
++ the **positive**: protect oppressed
++ the **promise** from God:
+  + He himself will protect us
++ who is this passage **addressing**?
 
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
@@ -98,13 +104,13 @@ and seem eager for God to **come near** them.
 [Isaiah 以賽亞書 58:2 (NIV/CUV)](# "ref")
 
 >>>
-+ this passage is speaking to the **good** guys!
-  + not **atheists**, Buddhists, etc.
++ speaking to the "**good** guys"!
+  + not **atheists**, Buddhists, etc., but
 + **churchgoers** who believe selves good Christians
   + **seek** out God's will
-+ passage mentions **fasting**: voluntary **sacrifice**
-  + to **worship** God and
-  + be **holy**
++ passage mentions **fasting**: 
+  + voluntary **sacrifice**
+  + to **worship** God and be **holy**
 + but these only have outward **appearance** of humility:
 
 ---
@@ -130,7 +136,8 @@ and for lying in **sackcloth and ashes**?
 + self-**abasement** focuses on 
   + **own** sacrifice / suffering
   + e.g., paying **penance** for sins
-+ e.g., devos at **camp**
++ e.g., personal devotions at **retreat**
+  + done for **others** to see
 
 ---
 <!-- .slide: <%= bg("fist.jpg") %> -->
@@ -152,7 +159,7 @@ and in **striking each other** with wicked fists.
 [Isaiah 以賽亞書 58:3-4 (NIV/CUV)](# "ref")
 
 >>>
-+ because the service is not from the **heart**
++ because service not from the **heart**
 + store up **bitterness** + resentment
 + e.g., family argues **more** on wknd?
 
@@ -220,10 +227,11 @@ from your own **flesh and blood**?
 
 >>>
 + Not that we can **solve** poverty, but
-+ Selfishness affects our **heart**
-  + **Sharing** God's grace
++ Selfishness affects our **heart**:
+  + Must **share** God's grace
 + **ἁπλότης**: simplicity + generosity
-  + **blessed** &Rarr; more to **give**
+  + If God **blesses** us, that means
+  + we can be more **generous**
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
@@ -241,7 +249,7 @@ from your own **flesh and blood**?
 >>>
 + **Action**, not **appearance**
   + impact, not image
-+ And God has a **promise**:
++ And God has a **promise** if we obey:
 
 ---
 <!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
@@ -288,10 +296,10 @@ you will **cry for help**, and he will say: **Here am I**
   <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
 
 >>>
-+ 2nd section echoes theme:
-+ **inward**, selfish pride &rArr;
-  + **outward** focus
-  + **provide** for others
++ 2nd section echoes call to **change**:
++ from **inward**, selfish pride 
++ to **outward** focus, **providing** for others
+  + even **beyond** my family
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> class="outline" -->
@@ -327,11 +335,15 @@ with the **pointing finger** and **malicious talk**,
 
 >>>
 + Don't: Presume **Superiority**
-+ **Oppression**: master / slave
-+ **Pointing**: superiority
++ **Oppression**: as a master to slave
++ **Pointing**: in Heb. culture, **superiority**
   + (not blame)
-+ Talk: **slander**
++ Malicious Talk: **slander**
   + with **intent** to harm
++ all of these are ways we try to
+  + **boost** ourselves higher by
+  + **pushing** others down
+  + mark of a **bully**
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
@@ -348,11 +360,15 @@ and **satisfy the needs** of the oppressed,
 
 >>>
 + Do: **Provide** for the Needy
-+ e.g. expend life on **kids**
-  + &rArr; **expand** generosity
-  + to **family**, then
-  + **beyond** family
++ e.g. we expend our lives on our **kids**
+  + **expand** our generosity:
+  + from **self** to **family**
+  + to **beyond** our family
 + KJV: **draw out** your soul
++ this is what it means to **worship** God:
+  + not just **songs**, prayer, listen to sermon
+  + but **obedience** from the heart
+  + not once a **week** but every **day**
 + God has 2-part **promise**:
 
 ---
@@ -424,16 +440,17 @@ you will be called **Repairer** of Broken Walls, <br/>
   <span class="zh">**享樂 &rarr; 讚美**</span> [(v13-14)](# "ref")
 
 >>>
-+ first 2 sections: **anytime**
++ first 2 sections: **any time**
+  + not just **weekend**
   + **worship** in practise
   + **faith** in action
 + last section: **Sabbath**
   + 1/7 specifically for God
-  + **more** than just church! 
+  + **more** than attending church! 
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> class="outline" -->
-## 3. Pleasure &rarr; Praise <br> <span class="zh">享樂 &rarr; 讚美</span>
+## 3. Pleasure &rarr; Praise <!-- <br> <span class="zh">享樂 &rarr; 讚美</span> -->
 + *Don't:* Do as We **Please** on Sabbath<br>
   <span class="zh">*不要:* 随心所欲過安息日</span>
   [(v13)](# "ref")
@@ -447,6 +464,8 @@ you will be called **Repairer** of Broken Walls, <br/>
 >>>
 + what are we supposed to do on the Sabbath? 
 + neg &rarr; pos &rarr; promise
++ focus is not on **our** relaxation
+  + but on **God's** providence
 
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
@@ -459,7 +478,7 @@ and from doing **as you please** on my holy day,
 在 我 聖 日 不 以 操 作 為 喜 樂 
 </div>
 
-[Isaiah 以賽亞書 58:13 (NIV/CUV)](# "ref")
+[Isaiah 以賽亞書 58:13a (NIV/CUV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
@@ -473,17 +492,17 @@ or speaking **idle** words,
 不 隨 自 己 的 私 意 ， 不 說 自 己 的 私 話
 </div>
 
-[Isaiah 以賽亞書 58:13 (NIV/CUV)](# "ref")
+[Isaiah 以賽亞書 58:13b (NIV/CUV)](# "ref")
 
 >>>
 + Don't: Do as you **Please**
-+ esp those who **serve**:
-  + retail, cust svc
-  + keep clients happy
++ esp for those who **serve**:
+  + retail / cust svc
+  + keeping clients happy
   + moms, teachers
-+ &rArr; indulge **self**
-  +  "me" time: **deserve** it
-+ Don't **honour** self, but:
++ we see weekends as time to indulge **self**
+  +  "me" time: I **deserve** it
++ Don't **honour** self; instead:
 
 ---
 <!-- .slide: <%= bg("unsplash-K2SXdKPEhcg-feather.jpg") %> -->
