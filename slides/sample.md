@@ -2,7 +2,7 @@
 # Reveal-Skel
 ## A template for Reveal.js-based presentations
 
-[![Travis](https://api.travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/github/sermons/reveal-skel)
+[![Travis](https://api.travis-ci.com/sermons/reveal-skel.svg)](https://travis-ci.com/github/sermons/reveal-skel)
 [![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
 [![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
 
@@ -24,7 +24,7 @@ Six underscores create a horizontal rule in the notes
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Outline <span class="zh">大綱</span>
+## Outline [大綱](# "zh")
 1. Point **One** [(ref)](# "ref")
 1. Point *Two* 
 1. Point *Three* 
