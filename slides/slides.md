@@ -1,15 +1,12 @@
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="title" -->
 # Redeeming <br/> the Weekends
-# <span class="zh">恢復週末</span>
 ## Isaiah 58
 
 >>>
-+ or: 將週末贖回
 
 ---
 <!-- .slide: data-background="white" -->
 # What are my **weekends** for?
-# <span class="zh">我過**週末**的<br>目的是什麼?</span>
 
 >>>
 + sometimes weekends **more** busy than weekdays!
@@ -23,13 +20,10 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="outline" class="outline" -->
-## Redeeming the Weekends <br> <span class="zh">恢復週末</span>
-1. Pretending &rarr; **Protecting** <br>
-  <span class="zh">假裝 &rarr; *保護*</span> [(v3-9a)](# "ref")
-2. Pride &rarr; **Providence** <br>
-  <span class="zh">驕傲 &rarr; *神的眷顧*</span> [(v9b-12)](# "ref")
-3. Pleasure &rarr; **Praise** <br>
-  <span class="zh">享樂 &rarr; *讚美*</span> [(v13-14)](# "ref")
+## Redeeming the Weekends [Is58](# "ref")
+1. Pretending &rarr; **Protecting**[(v3-9a)](# "ref")
+2. Pride &rarr; **Providence**[(v9b-12)](# "ref")
+3. Pleasure &rarr; **Praise** [(v13-14)](# "ref")
 
 >>>
 + call to **action**
@@ -46,12 +40,7 @@
 Declare to my people their **rebellion** <br/>
 and to the descendants of Jacob their **sins**.
 
-<div class="zh">
-向 我 百 姓 說 明 他 們 的 過 犯 ；<br>
-向 雅 各 家 說 明 他 們 的 罪 惡 。
-</div>
-
-[Isaiah 以賽亞書 58:1 (NIV/CUV)](# "ref")
+[Isaiah 58:1 (NIV)](# "ref")
 
 >>>
 + but actually is a **warning**:
@@ -67,16 +56,10 @@ and to the descendants of Jacob their **sins**.
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-## 1. Pretending &rarr; Protecting<br> <span class="zh">假裝 &rarr; 保護</span> 
-+ *Don't:* Pursue **Appearance** of Humility<br>
-  <span class="zh">*不要:* 追求表面的謙卑和刻苦己心</span>
-  [(v2-5)](# "ref")
-+ *Do:* **Protect** the Oppressed <br>
-  <span class="zh">*要:* 保護被欺壓困苦的人</span>
-  [(v6-7)](# "ref")
-+ *Promise:* **Answer** our Cry + **Protect** <br>
-  <span class="zh">*神的應許：* 回應我們的呼求，<br>保護我們</span>
-  [(v8-9)](# "ref")
+## 1. Pretending &rarr; Protecting
++ *Don't:* Pursue **Appearance** of Humility [(v2-5)](# "ref")
++ *Do:* **Protect** the Oppressed [(v6-7)](# "ref")
++ *Promise:* **Answer** our Cry + **Protect** [(v8-9)](# "ref")
 
 >>>
 + we are adept at **fooling** ourselves
@@ -96,12 +79,7 @@ they **seem eager** to know my ways, [...]
 They ask me for **just decisions** <br/>
 and seem eager for God to **come near** them.
 
-<div class="zh">
-他 們 天 天 尋 求 我 ， 樂 意 明 白 我 的 道 ...<br>
-向 我 求 問 公 義 的 判 語 ， 喜 悅 親 近 神 。
-</div>
-
-[Isaiah 以賽亞書 58:2 (NIV/CUV)](# "ref")
+[Isaiah 58:2 (NIV)](# "ref")
 
 >>>
 + speaking to the "**good** guys"!
@@ -121,14 +99,7 @@ to **humble themselves**?
 Is it only for **bowing one’s head** like a reed <br/>
 and for lying in **sackcloth and ashes**?
 
-<div class="zh">
-這 樣 禁 食 豈 是 我 所 揀 選 、 <br>
-使 人 刻 苦 己 心 的 日 子 麼 ？ <br>
-豈 是 叫 人 垂 頭 像 葦 子 ， <br>
-用 麻 布 和 爐 灰 鋪 在 他 以 下 麼 ？ 
-</div>
-
-[Isaiah 以賽亞書 58:5 (NIV/CUV)](# "ref")
+[Isaiah 58:5 (NIV)](# "ref")
 
 >>>
 + we as **Chinese** are really good at
@@ -148,15 +119,7 @@ and **exploit** all your workers.
 Your fasting ends in **quarreling and strife**, <br/>
 and in **striking each other** with wicked fists.
 
-<div class="zh">
-你 們 禁 食 的 日 子 仍 求 利 益 ， <br>
-勒 逼 人 為 你 們 做 苦 工 。<br>
-[4](# "ref")
-你 們 禁 食 ， 卻 互 相 爭 競 ， <br>
-以 凶 惡 的 拳 頭 打 人 。
-</div>
-
-[Isaiah 以賽亞書 58:3-4 (NIV/CUV)](# "ref")
+[Isaiah 58:3-4 (NIV)](# "ref")
 
 >>>
 + because service not from the **heart**
@@ -165,16 +128,10 @@ and in **striking each other** with wicked fists.
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-## 1. Pretending &rarr; Protecting<br> <span class="zh">假裝 &rarr; 保護</span> 
-+ Don't: Pursue Appearance of Humility<br>
-  <span class="zh">不要: 追求表面的謙卑和刻苦己心</span>
-  [(v2-5)](# "ref")
-+ *Do:* **Protect the Oppressed** <br>
-  <span class="zh">*要:* **保護被欺壓困苦的人**</span>
-  [(v6-7)](# "ref")
-+ Promise: Answer our Cry + Protect <br>
-  <span class="zh">神的應許： 回應我們的呼求，<br>保護我們</span>
-  [(v8-9)](# "ref")
+## 1. Pretending &rarr; Protecting
++ Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
++ *Do:* **Protect the Oppressed** [(v6-7)](# "ref")
++ Promise: Answer our Cry + Protect [(v8-9)](# "ref")
 
 >>>
 + the **facade** of humility
@@ -188,14 +145,7 @@ and untie the **cords of the yoke**, <br/>
 to set the **oppressed** free <br/>
 and break every **yoke**?
 
-<div class="zh">
-要 鬆 開 凶 惡 的 繩 ， <br>
-解 下 軛 上 的 索 ， <br>
-使 被 欺 壓 的 得 自 由 ， <br>
-折 斷 一 切 的 軛 麼 ？
-</div>
-
-[Isaiah 以賽亞書 58:6 (NIV/CUV)](# "ref")
+[Isaiah 58:6 (NIV)](# "ref")
 
 >>>
 + Justice: as **defined** by God
@@ -216,14 +166,7 @@ when you see the naked, to **clothe them**, <br/>
 and not to turn away <br/>
 from your own **flesh and blood**?
 
-<div class="zh">
-不 是 要 把 你 的 餅 分 給 飢 餓 的 人 ， <br>
-將 飄 流 的 窮 人 接 到 你 家 中 ， <br>
-見 赤 身 的 給 他 衣 服 遮 體 ， <br>
-顧 恤 自 己 的 骨 肉 而 不 掩 藏 麼 ？
-</div>
-
-[Isaiah 以賽亞書 58:7 (NIV/CUV)](# "ref")
+[Isaiah 58:7 (NIV)](# "ref")
 
 >>>
 + Not that we can **solve** poverty, but
@@ -235,16 +178,10 @@ from your own **flesh and blood**?
 
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
-## 1. Pretending &rarr; Protecting<br> <span class="zh">假裝 &rarr; 保護</span> 
-+ Don't: Pursue Appearance of Humility<br>
-  <span class="zh">不要: 追求表面的謙卑和刻苦己心</span>
-  [(v2-5)](# "ref")
-+ Do: Protect the Oppressed <br>
-  <span class="zh">要: 保護被欺壓困苦的人</span>
-  [(v6-7)](# "ref")
-+ *Promise:* **Answer our Cry + Protect** <br>
-  <span class="zh">*神的應許：* **回應我們的呼求，<br>保護我們**</span>
-  [(v8-9)](# "ref")
+## 1. Pretending &rarr; Protecting
++ Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
++ Do: Protect the Oppressed [(v6-7)](# "ref")
++ *Promise:* **Answer our Cry + Protect** [(v8-9)](# "ref")
 
 >>>
 + **Action**, not **appearance**
@@ -261,14 +198,7 @@ will be your **rear guard**.
 Then you will **call**, and the Lord will **answer**; <br/>
 you will **cry for help**, and he will say: **Here am I**
 
-<div class="zh">
-耶 和 華 的 榮 光 必 作 你 的 後 盾 。<br>
-[9](# "ref")
-那 時 你 求 告 ， 耶 和 華 必 應 允 ； <br>
-你 呼 求 ， 他 必 說 ： 我 在 這 裡 。
-</div>
-
-[Isaiah 以賽亞書 58:8-9 (NIV/CUV)](# "ref")
+[Isaiah 58:8-9 (NIV)](# "ref")
 
 >>>
 + We **protect** the oppressed &rArr;
@@ -278,8 +208,7 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I care more about **appearing** humble than **protecting** the oppressed?
-## <span class="zh">我比較在乎表面上看似謙卑, <br>或是真正去保護<br>受欺壓困苦的人?</span>
+# Do I care more about **appearing** humble than **protecting** the oppressed?
 
 >>>
 + Pretending &rarr; Protecting
@@ -287,13 +216,10 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## Redeeming the Weekends <br> <span class="zh">恢復週末</span>
-1. Pretending &rarr; Protecting <br>
-  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
-2. **Pride &rarr; Providence** <br>
-  <span class="zh">**驕傲 &rarr; 神的眷顧**</span> [(v9b-12)](# "ref")
-3. Pleasure &rarr; Praise <br>
-  <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
+## Redeeming the Weekends [Is58](# "ref")
+1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
+2. **Pride &rarr; Providence** [(v9b-12)](# "ref")
+3. Pleasure &rarr; Praise [(v13-14)](# "ref")
 
 >>>
 + 2nd section echoes call to **change**:
@@ -303,16 +229,10 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> class="outline" -->
-## 2. Pride &rarr; Providence <br> <span class="zh">驕傲 &rarr; 神的眷顧</span>
-+ *Don't:* Presume **Superiority** <br>
-  <span class="zh">*不要:* 自以為優越</span>
-  [(v9b)](# "ref")
-+ *Do:* **Provide** for the Needy <br>
-  <span class="zh">*要:* 供應給有需要的人</span>
-  [(v10a)](# "ref")
-+ *Promise:* **Satisfy** Needs + **Restore** <br>
-  <span class="zh">*神的應許:* 滿足我們的需要, 恢復我們</span>
-  [(v10b-12)](# "ref")
+## 2. Pride &rarr; Providence
++ *Don't:* Presume **Superiority** [(v9b)](# "ref")
++ *Do:* **Provide** for the Needy [(v10a)](# "ref")
++ *Promise:* **Satisfy** Needs + **Restore** [(v10b-12)](# "ref")
 
 >>>
 + **neg**: heart attitude
@@ -325,13 +245,7 @@ you will **cry for help**, and he will say: **Here am I**
 If you do away with the **yoke of oppression**, <br/>
 with the **pointing finger** and **malicious talk**,
 
-<div class="zh">
-你 若 從 你 中 間 除 掉 重 軛 <br>
-和 指 摘 人 的 指 頭 ， <br>
-並 發 惡 言 的 事 
-</div>
-
-[Isaiah 以賽亞書 58:9 (NIV/CUV)](# "ref")
+[Isaiah 58:9 (NIV)](# "ref")
 
 >>>
 + Don't: Presume **Superiority**
@@ -351,12 +265,7 @@ if you **spend yourselves** <br/>
 in behalf of the hungry <br/>
 and **satisfy the needs** of the oppressed,
 
-<div class="zh">
-你 心 若 向 飢 餓 的 人 發 憐 憫 ， <br>
-使 困 苦 的 人 得 滿 足 
-</div>
-
-[Isaiah 以賽亞書 58:10 (NIV/CUV)](# "ref")
+[Isaiah 58:10 (NIV)](# "ref")
 
 >>>
 + Do: **Provide** for the Needy
@@ -379,14 +288,7 @@ and will **strengthen** your frame.
 You will be like a **well-watered garden**, <br/>
 like a **spring** whose waters never fail.
 
-<div class="zh">
-在 乾 旱 之 地 使 你 心 滿 意 足 ，<br>
-骨 頭 強 壯 。 <br>
-你 必 像 澆 灌 的 園 子 ， <br>
-又 像 水 流 不 絕 的 泉 源 。
-</div>
-
-[Isaiah 以賽亞書 58:11 (NIV/CUV)](# "ref")
+[Isaiah 58:11 (NIV)](# "ref")
 
 >>>
 + Promise (1): **Satisfy** Your Needs
@@ -404,15 +306,7 @@ and will **raise up** the age-old foundations;
 you will be called **Repairer** of Broken Walls, <br/>
 **Restorer** of Streets with Dwellings.
 
-<div class="zh">
-那 些 出 於 你 的 人 <br>
-必 修 造 久 已 荒 廢 之 處 ； <br>
-你 要 建 立 拆 毀 累 代 的 根 基 。 <br>
-你 必 稱 為 補 破 口 的 ， <br>
-和 重 修 路 徑 與 人 居 住 的 。
-</div>
-
-[Isaiah 以賽亞書 58:12 (NIV/CUV)](# "ref")
+[Isaiah 58:12 (NIV)](# "ref")
 
 >>>
 + God's Promise (2): **Restore** You
@@ -422,8 +316,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I care more about <br>**justifying** myself than **providing** for the needy?
-## <span class="zh">我比較在乎捍衛自己權益, <br>或是供應給有需要的人?</span>
+# Do I care more about **justifying** myself than **providing** for the needy?
 
 >>>
 + **Trust** in God's providence
@@ -431,13 +324,10 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## Redeeming the Weekends <br> <span class="zh">恢復週末</span>
-1. Pretending &rarr; Protecting <br>
-  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
-2. Pride &rarr; Providence <br>
-  <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
-3. **Pleasure &rarr; Praise** <br>
-  <span class="zh">**享樂 &rarr; 讚美**</span> [(v13-14)](# "ref")
+## Redeeming the Weekends
+1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
+2. Pride &rarr; Providence [(v9b-12)](# "ref")
+3. **Pleasure &rarr; Praise** [(v13-14)](# "ref")
 
 >>>
 + first 2 sections: **any time**
@@ -450,16 +340,10 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> class="outline" -->
-## 3. Pleasure &rarr; Praise <!-- <br> <span class="zh">享樂 &rarr; 讚美</span> -->
-+ *Don't:* Do as We **Please** on Sabbath<br>
-  <span class="zh">*不要:* 随心所欲過安息日</span>
-  [(v13)](# "ref")
-+ *Do:* Consider Its **Joy** and **Gravity**<br>
-  <span class="zh">而是讓我們思考<br>從它而來的喜樂和重要</span>
-  [(v13b)](# "ref")
-+ *Promise:* Be Our **Joy** and **Triumph**<br>
-  <span class="zh">*神的應許是，* 祂必成為我們的<br>喜樂和得勝</span>
-  [(v14)](# "ref")
+## 3. Pleasure &rarr; Praise
++ *Don't:* Do as We **Please** on Sabbath [(v13)](# "ref")
++ *Do:* Consider Its **Joy** and **Gravity** [(v13b)](# "ref")
++ *Promise:* Be Our **Joy** and **Triumph** [(v14)](# "ref")
 
 >>>
 + what are we supposed to do on the Sabbath? 
@@ -473,12 +357,7 @@ If you keep your **feet** <br/>
 from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
-<div class="zh">
-你 若 在 安 息 日 掉 轉 你 的 腳 步 ， <br>
-在 我 聖 日 不 以 操 作 為 喜 樂 
-</div>
-
-[Isaiah 以賽亞書 58:13a (NIV/CUV)](# "ref")
+[Isaiah 58:13a (NIVCUV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
@@ -487,12 +366,7 @@ by not going your **own way** <br/>
 and not doing **as you please** <br/>
 or speaking **idle** words,
 
-<div class="zh">
-而 且 尊 敬 這 日 ， 不 辦 自 己 的 私 事 ， <br>
-不 隨 自 己 的 私 意 ， 不 說 自 己 的 私 話
-</div>
-
-[Isaiah 以賽亞書 58:13b (NIV/CUV)](# "ref")
+[Isaiah 58:13b (NIV)](# "ref")
 
 >>>
 + Don't: Do as you **Please**
@@ -509,12 +383,7 @@ or speaking **idle** words,
 if you call the Sabbath a **delight** <br/>
 and the Lord’s holy day **honorable**,
 
-<div class="zh">
-稱 安 息 日 為 可 喜 樂 的 ， <br>
-稱 耶 和 華 的 聖 日 為 可 尊 重 的 ；
-</div>
-
-[Isaiah 以賽亞書 58:13 (NIV/CUV)](# "ref")
+[Isaiah 58:13 (NIV)](# "ref")
 
 >>>
 + honour God **first**, and
@@ -534,12 +403,7 @@ Then you will **find your joy** in the Lord,
 and I will cause you to **ride in triumph** <br/>
 on the heights of the land
 
-<div class="zh">
-你 就 以 耶 和 華 為 樂 。 <br>
-耶 和 華 要 使 你 乘 駕 地 的 高 處 
-</div>
-
-[Isaiah 以賽亞書 58:14 (NIV/CUV)](# "ref")
+[Isaiah 58:14 (NIV)](# "ref")
 
 >>>
 + God's Promise: Be Your **joy** and **triumph**
@@ -557,15 +421,7 @@ and he will give you the **desires** of your heart.
 **Commit** your way to the LORD; <br/>
 **trust** in him, and he will act.
 
-<div class="zh">
-又 要 以 耶 和 華 為 樂 ， <br>
-他 就 將 你 心 裡 所 求 的 賜 給 你 。<br>
-[5](# "ref")
-當 將 你 的 事 交 託 耶 和 華 ， <br>
-並 倚 靠 他 ， 他 就 必 成 全 。
-</div>
-
-[Psalm 詩篇 37:4-5 (ESV/CUV)](# "ref")
+[Psalm 37:4-5 (ESV)](# "ref")
 
 >>>
 + joy: in the Lord Himself
@@ -575,18 +431,7 @@ and he will give you the **desires** of your heart.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I care more about my own **plans** than declaring God's **glory**?
-## <span class="zh"> 我比較在乎我自己的計劃， <br> 還是傳揚祂的榮耀?</span>
-
----
-<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## [Isaiah 58:](# "ref") <br/> Redeeming the Weekends
-1. *Pretending* &rarr; **Protecting** <br>
-  <span class="zh">假裝 &rarr; 保護</span> [(v3-9a)](# "ref")
-2. *Pride* &rarr; **Providence** <br>
-  <span class="zh">驕傲 &rarr; 神的眷顧</span> [(v9b-12)](# "ref")
-3. *Pleasure* &rarr; **Praise** <br>
-  <span class="zh">享樂 &rarr; 讚美</span> [(v13-14)](# "ref")
+# Do I care more about my own **plans** than declaring God's **glory**?
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="empty" -->
