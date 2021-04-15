@@ -11,4 +11,3 @@ See [INSTALL.md](INSTALL.md)
 for how to make your own presentation.
 
 Test locally with `grunt connect:serve:keepalive`
->>>>>>> 959c1622fb81d143e929cd325f84c95bede29c5a
