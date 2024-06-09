@@ -23,8 +23,8 @@
 ## Redeeming the Weekends [(Is58)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
-1. Pretending &rarr; **Protecting**[(v3-9a)](# "ref")
-2. Pride &rarr; **Providence**[(v9b-12)](# "ref")
+1. Pretending &rarr; **Protecting** [(v3-9a)](# "ref")
+2. Pride &rarr; **Providence** [(v9b-12)](# "ref")
 3. Pleasure &rarr; **Praise** [(v13-14)](# "ref")
 
 >>>
@@ -67,7 +67,6 @@ and to the descendants of Jacob their **sins**.
 >>>
 + we are adept at **fooling** ourselves
 + we **seek** God but unwilling to **obey** Him
-+ each section has
 + the **negative**: wanting to appear humble
 + the **positive**: protect oppressed
 + the **promise** from God:
@@ -132,9 +131,9 @@ and in **striking each other** with wicked fists.
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 ## 1. Pretending &rarr; Protecting
-+ Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
++ Don't: Pursue Appearance <br> of Humility [(v2-5)](# "ref")
 + *Do:* **Protect the Oppressed** [(v6-7)](# "ref")
-+ Promise: Answer our Cry + Protect [(v8-9)](# "ref")
++ Promise: Answer our Cry <br> and Protect Us [(v8-9)](# "ref")
 
 >>>
 + the **facade** of humility
@@ -184,9 +183,9 @@ from your own **flesh and blood**?
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 ## 1. Pretending &rarr; Protecting
-+ Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
++ Don't: Pursue Appearance <br> of Humility [(v2-5)](# "ref")
 + Do: Protect the Oppressed [(v6-7)](# "ref")
-+ *Promise:* **Answer our Cry + Protect** [(v8-9)](# "ref")
++ *Promise:* **Answer our Cry** <br> **and Protect Us** [(v8-9)](# "ref")
 
 >>>
 + **Action**, not **appearance**
@@ -214,6 +213,7 @@ you will **cry for help**, and he will say: **Here am I**
 ---
 <!-- .slide: data-background="white" -->
 # Do I care more about <br> **appearing** humble than <br> **protecting** the oppressed?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Pretending &rarr; Protecting
@@ -286,7 +286,7 @@ and **satisfy the needs** of the oppressed,
 + God has 2-part **promise**:
 
 ---
-<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 **satisfy your needs** in a sun-scorched land <br/>
 and will **strengthen** your frame.
 
@@ -294,6 +294,7 @@ You will be like a **well-watered garden**, <br/>
 like a **spring** whose waters never fail.
 
 [Isaiah 58:11 (NIV)](# "ref")
+[qinghill, Parit, Malaysia](https://unsplash.com/photos/x8MZ2MoEKLE "caption")
 
 >>>
 + Promise (1): **Satisfy** Your Needs
@@ -322,6 +323,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 ---
 <!-- .slide: data-background="white" -->
 # Do I care more about <br> **justifying** myself than <br> **providing** for the needy?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Trust** in God's providence
@@ -435,6 +437,7 @@ and he will give you the **desires** of your heart.
 ---
 <!-- .slide: data-background="white" -->
 # Do I care more about <br> my own **plans** than <br> declaring God's **glory**?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="empty" -->
