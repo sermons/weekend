@@ -62,7 +62,7 @@ and to the descendants of Jacob their **sins**.
 
 + *Don't:* Pursue **Appearance** of Humility [(v2-5)](# "ref")
 + *Do:* **Protect** the Oppressed [(v6-7)](# "ref")
-+ *Promise:* **Answer** our Cry and **Protect** Us [(v8-9)](# "ref")
++ *Promise:* **Protect** Us and **Answer** Our Cry [(v8-9)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -135,7 +135,7 @@ and in **striking each other** with wicked fists.
 ## 1. Pretending &rarr; Protecting
 + Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
 + *Do:* **Protect the Oppressed** [(v6-7)](# "ref")
-+ Promise: Answer our Cry and Protect Us [(v8-9)](# "ref")
++ Promise: Protect Us and Answer our Cry [(v8-9)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -189,7 +189,7 @@ from your own **flesh and blood**?
 ## 1. Pretending &rarr; Protecting
 + Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
 + Do: Protect the Oppressed [(v6-7)](# "ref")
-+ *Promise:* **Answer our Cry and Protect Us** [(v8-9)](# "ref")
++ *Promise:* **Protect Us and Answer our Cry** [(v8-9)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -263,6 +263,7 @@ with the **pointing finger** and **malicious talk**,
 >>>
 + Don't: Presume **Superiority**
 + **Oppression**: as a master to slave
+  + cf v6 remove **yoke**
 + **Pointing**: in Heb. culture, **superiority**
   + (not blame)
 + Malicious Talk: **slander**
