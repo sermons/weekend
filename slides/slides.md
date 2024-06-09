@@ -20,7 +20,9 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> id="outline" class="outline" -->
-## Redeeming the Weekends [Is58](# "ref")
+## Redeeming the Weekends [(Is58)](# "ref")
+<!-- .element: class="r-fit-text" -->
+
 1. Pretending &rarr; **Protecting**[(v3-9a)](# "ref")
 2. Pride &rarr; **Providence**[(v9b-12)](# "ref")
 3. Pleasure &rarr; **Praise** [(v13-14)](# "ref")
@@ -57,9 +59,10 @@ and to the descendants of Jacob their **sins**.
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 ## 1. Pretending &rarr; Protecting
-+ *Don't:* Pursue **Appearance** of Humility [(v2-5)](# "ref")
+
++ *Don't:* Pursue **Appearance** <br> of Humility [(v2-5)](# "ref")
 + *Do:* **Protect** the Oppressed [(v6-7)](# "ref")
-+ *Promise:* **Answer** our Cry + **Protect** [(v8-9)](# "ref")
++ *Promise:* **Answer** our Cry <br> and **Protect** Us [(v8-9)](# "ref")
 
 >>>
 + we are adept at **fooling** ourselves
@@ -141,7 +144,8 @@ and in **striking each other** with wicked fists.
 ---
 <!-- .slide: <%= bg("pixabay-1290860-padlock.jpg") %> -->
 To loose the **chains of injustice** <br/>
-and untie the **cords of the yoke**, <br/>
+and untie the **cords of the yoke**, 
+
 to set the **oppressed** free <br/>
 and break every **yoke**?
 
@@ -161,7 +165,8 @@ and break every **yoke**?
 ---
 <!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 To **share your food** with the hungry <br/>
-and to provide the poor wanderer with **shelter** <br/>
+and to provide the poor wanderer with **shelter** 
+
 when you see the naked, to **clothe them**, <br/>
 and not to turn away <br/>
 from your own **flesh and blood**?
@@ -208,7 +213,7 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I care more about **appearing** humble than **protecting** the oppressed?
+# Do I care more about <br> **appearing** humble than <br> **protecting** the oppressed?
 
 >>>
 + Pretending &rarr; Protecting
@@ -316,7 +321,7 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I care more about **justifying** myself than **providing** for the needy?
+# Do I care more about <br> **justifying** myself than <br> **providing** for the needy?
 
 >>>
 + **Trust** in God's providence
@@ -345,6 +350,8 @@ you will be called **Repairer** of Broken Walls, <br/>
 + *Do:* Consider Its **Joy** and **Gravity** [(v13b)](# "ref")
 + *Promise:* Be Our **Joy** and **Triumph** [(v14)](# "ref")
 
+<!-- .element: class="r-fit-text" -->
+
 >>>
 + what are we supposed to do on the Sabbath? 
 + neg &rarr; pos &rarr; promise
@@ -357,10 +364,6 @@ If you keep your **feet** <br/>
 from breaking the **Sabbath** <br/>
 and from doing **as you please** on my holy day,
 
-[Isaiah 58:13a (NIVCUV)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-DwTZwZYi9Ww-feet_lawn.jpg") %> -->
 and if you **honor** it <br/>
 by not going your **own way** <br/>
 and not doing **as you please** <br/>
@@ -431,7 +434,7 @@ and he will give you the **desires** of your heart.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I care more about my own **plans** than declaring God's **glory**?
+# Do I care more about <br> my own **plans** than <br> declaring God's **glory**?
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="empty" -->
