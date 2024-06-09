@@ -60,9 +60,11 @@ and to the descendants of Jacob their **sins**.
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 ## 1. Pretending &rarr; Protecting
 
-+ *Don't:* Pursue **Appearance** <br> of Humility [(v2-5)](# "ref")
++ *Don't:* Pursue **Appearance** of Humility [(v2-5)](# "ref")
 + *Do:* **Protect** the Oppressed [(v6-7)](# "ref")
-+ *Promise:* **Answer** our Cry <br> and **Protect** Us [(v8-9)](# "ref")
++ *Promise:* **Answer** our Cry and **Protect** Us [(v8-9)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + we are adept at **fooling** ourselves
@@ -221,7 +223,9 @@ you will **cry for help**, and he will say: **Here am I**
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## Redeeming the Weekends [Is58](# "ref")
+## Redeeming the Weekends [(Is58)](# "ref")
+<!-- .element: class="r-fit-text" -->
+
 1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
 2. **Pride &rarr; Providence** [(v9b-12)](# "ref")
 3. Pleasure &rarr; Praise [(v13-14)](# "ref")
@@ -331,7 +335,9 @@ you will be called **Repairer** of Broken Walls, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> class="outline" -->
-## Redeeming the Weekends
+## Redeeming the Weekends [(Is58)](# "ref")
+<!-- .element: class="r-fit-text" -->
+
 1. Pretending &rarr; Protecting [(v3-9a)](# "ref")
 2. Pride &rarr; Providence [(v9b-12)](# "ref")
 3. **Pleasure &rarr; Praise** [(v13-14)](# "ref")
