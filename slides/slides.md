@@ -133,9 +133,11 @@ and in **striking each other** with wicked fists.
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 ## 1. Pretending &rarr; Protecting
-+ Don't: Pursue Appearance <br> of Humility [(v2-5)](# "ref")
++ Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
 + *Do:* **Protect the Oppressed** [(v6-7)](# "ref")
-+ Promise: Answer our Cry <br> and Protect Us [(v8-9)](# "ref")
++ Promise: Answer our Cry and Protect Us [(v8-9)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + the **facade** of humility
@@ -185,9 +187,11 @@ from your own **flesh and blood**?
 ---
 <!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> class="outline" -->
 ## 1. Pretending &rarr; Protecting
-+ Don't: Pursue Appearance <br> of Humility [(v2-5)](# "ref")
++ Don't: Pursue Appearance of Humility [(v2-5)](# "ref")
 + Do: Protect the Oppressed [(v6-7)](# "ref")
-+ *Promise:* **Answer our Cry** <br> **and Protect Us** [(v8-9)](# "ref")
++ *Promise:* **Answer our Cry and Protect Us** [(v8-9)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Action**, not **appearance**
